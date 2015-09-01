@@ -73,19 +73,19 @@ echo "Files that match search criteria: " $FILECOUNT
 #      percentage (often referred to as the cumulative distribution).
 
 grep -iRlw "spike" /Users/robertirwin/software_tools/data/* > suba.txt
-SPIKE="$(wc -l < suba.txt)"
+SPIKE="$(wc -l < suba.txt)" # #of files corresponds to number of lines
 echo "Files with <spike>: " $SPIKE
 grep -iRlw "seizure" /Users/robertirwin/software_tools/data/* > subb.txt
 SEIZURE="$(wc -l < subb.txt)"
 echo "Files with <seizure>: " $SEIZURE
 
 echo "Creating Histogram of subset A..."
-xargs cat < suba.txt | tr -sc '[A-Z][a-z]' '[\012*]' > suba.words
-sort -f suba.words | uniq -ci | sort -nr > suba.hist
+xargs cat < suba.txt | tr -sc '[A-Z][a-z]' '[\012*]' > suba.words #files too big for cat.  Chunk it up
+sort -f suba.words | uniq -ci | sort -nr > suba.hist #count each unique word, ignore case
 
 #pdf                                                                        
-sed 's/^ *//g' < suba.hist > suba1.hist
-cut -f 1 -d ' ' suba1.hist > num.list
+sed 's/^ *//g' < suba.hist > suba1.hist # remove blankspace in front of the count for each word
+cut -f 1 -d ' ' suba1.hist > num.list #take everything up to the first <space> (count)
 
 #sum up all histogram entries                                                 
 sum=$(awk '{SUM += $1} END { print SUM}' num.list)
@@ -104,6 +104,7 @@ paste suba.hist per.list > hista.hist
 rm per.list num.list
 echo "Done... saved in hista.hist"
 
+#On to subset B
 echo "Creating Histogram of subset B..."
 xargs cat < subb.txt | tr -sc '[A-Z][a-z]' '[\012*]' | sort -f | uniq -ci | sort -nr > subb.hist
 
@@ -134,7 +135,7 @@ echo "Done... saved in histb.hist"
 echo "Creating Histogram of all two word sequences in subset A..."
 tail -n +2 suba.words > suba.next
 
-#Merge the two lists
+#Merge the two lists with a shingled effect
 paste suba.words suba.next | sort -f | uniq -ci | sort -nr > bi.hist
 sed 's/^ *//g' < bi.hist > bi1.hist
 cut -f 1 -d ' ' bi1.hist > num.list
@@ -155,5 +156,6 @@ paste bi.hist per.list > histbi.hist
 
 
 echo "Done... saved in histbi.hist"
+
 #Clean up files                                                              
-rm output.txt out1.txt out2.txt final.txt files.txt suba.txt subb.txt suba.words suba.next suba.hist subb.hist per.list
+rm output.txt out1.txt out2.txt final.txt files.txt suba.txt subb.txt suba.words suba.next per.list bi.hist num.list suba1.hist subb1.hist suba.hist subb.hist bi1.hist

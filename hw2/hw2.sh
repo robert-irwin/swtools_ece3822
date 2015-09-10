@@ -1,10 +1,10 @@
 #!/bin/bash                                                           
 
 ##--- Title: hw2.sh                                                     
-##--- Description: Completes HW Assignment 01 for ECE_3822                    
-##---              This assignment acts as an introduction                    
-##---              to bash shell scripting. The tasks are                     
-##---              seen throughout the code.                             
+##--- Description: Completes HW Assignment 02 for ECE_3822                    
+##---              This assignment involves writing a script                 
+##---              that writes a script that renames a large 
+##---              number of files.
 ##--- Author:      Robert Irwin                          
 
 FILES=$1

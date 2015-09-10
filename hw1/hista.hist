@@ -1,396 +1,428 @@
-225289 THE	4.9048%
+157788 the	3.4353%
 146612 and	3.1919%
-146610 OF	3.1919%
-99756 With	2.1718%
-99628 A	2.1690%
-92897 In	2.0225%
+128711 of	2.8022%
+99298 with	2.1619%
 92620 is	2.0165%
-90381 TO	1.9677%
+90579 a	1.9720%
+90138 to	1.9624%
+76186 in	1.6587%
 67242 EEG	1.4639%
-51127 PATIENT	1.1131%
-49346 WAs	1.0743%
-46695 There	1.0166%
-45909 At	0.9995%
-42951 SEIZURES	0.9351%
-41414 This	0.9016%
+50412 The	1.0975%
+49859 patient	1.0855%
+49238 was	1.0720%
+42590 at	0.9272%
 38426 activity	0.8366%
 37960 were	0.8264%
-37168 CLINICAL	0.8092%
-36848 Spike	0.8022%
-34673 Left	0.7549%
+36067 spike	0.7852%
 33092 performed	0.7205%
-32419 As	0.7058%
-31601 Sleep	0.6880%
+32571 seizures	0.7091%
+32168 left	0.7003%
 31128 wave	0.6777%
-29820 RECORD	0.6492%
+30818 sleep	0.6709%
+30695 CLINICAL	0.6683%
+28728 as	0.6254%
 28665 Hz	0.6241%
 28461 are	0.6196%
-26843 No	0.5844%
-26555 FOR	0.5781%
-25200 HISTORY	0.5486%
-25081 Right	0.5460%
-24295 Temporal	0.5289%
+25262 there	0.5500%
+24646 This	0.5366%
+24268 temporal	0.5283%
+24029 right	0.5231%
 23815 which	0.5185%
 23755 seen	0.5172%
 21759 waves	0.4737%
-21560 ABNORMAL	0.4694%
 21465 be	0.4673%
-21077 Electrode	0.4589%
-20710 Stimulation	0.4509%
-20656 An	0.4497%
-20643 Hyperventilation	0.4494%
-20230 SEIZURE	0.4404%
+21433 There	0.4666%
+20915 electrode	0.4553%
+20730 for	0.4513%
 20189 but	0.4395%
-20079 Not	0.4371%
-19450 Bursts	0.4235%
-19360 On	0.4215%
-18406 Slowing	0.4007%
-18235 Photic	0.3970%
-17830 Wakefulness	0.3882%
-17658 DISCHARGES	0.3844%
-17495 Background	0.3809%
-17412 MEDICATIONS	0.3791%
-17406 During	0.3790%
+19971 not	0.4348%
+19928 an	0.4339%
+19742 stimulation	0.4298%
+18452 seizure	0.4017%
+18376 bursts	0.4001%
+18192 slowing	0.3961%
+17776 wakefulness	0.3870%
+17769 on	0.3869%
+17494 OF	0.3809%
 17180 noted	0.3740%
-17087 CORRELATION	0.3720%
-16739 Video	0.3644%
-16709 Generalized	0.3638%
-16681 Some	0.3632%
-16576 DESCRIPTION	0.3609%
+17089 THE	0.3721%
+16768 this	0.3651%
+16711 In	0.3638%
 16530 amplitude	0.3599%
+16523 video	0.3597%
+16441 DESCRIPTION	0.3579%
 16273 year	0.3543%
-16271 Focal	0.3542%
-16144 Using	0.3515%
+16198 RECORD	0.3527%
+16174 background	0.3521%
 16142 system	0.3514%
 16117 IMPRESSION	0.3509%
-16100 More	0.3505%
+16063 using	0.3497%
+16009 HISTORY	0.3485%
 15978 rhythm	0.3479%
 15955 EKG	0.3474%
-15929 OR	0.3468%
-15874 INTRODUCTION	0.3456%
 15847 standard	0.3450%
+15847 INTRODUCTION	0.3450%
+15776 more	0.3435%
 15647 T	0.3407%
-15291 Slow	0.3329%
+15577 MEDICATIONS	0.3391%
 15261 well	0.3323%
-15215 That	0.3313%
 15145 placement	0.3297%
 15145 old	0.3297%
-14882 Sharp	0.3240%
-14852 Posterior	0.3233%
-14654 RECORDING	0.3190%
-14543 Anterior	0.3166%
+15134 that	0.3295%
+14984 or	0.3262%
+14875 CORRELATION	0.3238%
+14666 sharp	0.3193%
+14616 slow	0.3182%
 14534 region	0.3164%
-13887 Normal	0.3023%
-13663 Due	0.2975%
-13366 By	0.2910%
-13150 Epilepsy	0.2863%
-12959 Digital	0.2821%
-12814 From	0.2790%
+14409 anterior	0.3137%
+14395 posterior	0.3134%
+14070 some	0.3063%
+13952 no	0.3038%
+13622 record	0.2966%
+13609 generalized	0.2963%
+13609 due	0.2963%
+13547 recording	0.2949%
+12891 No	0.2807%
+12880 epilepsy	0.2804%
+12679 from	0.2760%
 12505 beta	0.2723%
 12434 frontal	0.2707%
-12189 None	0.2654%
+12151 by	0.2645%
+12022 discharges	0.2617%
 11937 theta	0.2599%
-11755 Epileptiform	0.2559%
+11843 focal	0.2578%
+11799 Digital	0.2569%
 11650 frequency	0.2536%
-11641 Stage	0.2534%
-10731 These	0.2336%
+11611 during	0.2528%
+11594 normal	0.2524%
+11503 photic	0.2504%
+11323 epileptiform	0.2465%
+11003 None	0.2396%
 10722 recorded	0.2334%
+10611 Hyperventilation	0.2310%
 10084 procedures	0.2195%
-9895 Activating	0.2154%
+10032 hyperventilation	0.2184%
+9869 stage	0.2149%
 9428 predominant	0.2053%
 9402 channel	0.2047%
+9329 Abnormal	0.2031%
 9111 dominant	0.1984%
-9037 S	0.1967%
-8687 Rhythmic	0.1891%
+9110 history	0.1983%
+9049 A	0.1970%
 8658 may	0.1885%
+8471 rhythmic	0.1844%
 8379 single	0.1824%
-8233 Continuous	0.1792%
-8148 EVENTS	0.1774%
-8062 STUDY	0.1755%
-8012 Additional	0.1744%
-8011 Has	0.1744%
+8362 s	0.1821%
 7973 seconds	0.1736%
-7946 BPM	0.1730%
+7876 has	0.1715%
 7843 alpha	0.1708%
 7720 detection	0.1681%
-7655 Also	0.1667%
-7627 High	0.1661%
-7581 Pattern	0.1650%
-7549 Eye	0.1644%
-7540 Frontally	0.1642%
+7527 pattern	0.1639%
+7492 high	0.1631%
+7468 eye	0.1626%
+7385 also	0.1608%
 7315 hemisphere	0.1593%
 7307 addition	0.1591%
 7248 delta	0.1578%
 7138 lab	0.1554%
-7119 Multiple	0.1550%
+6844 Activating	0.1490%
+6757 abnormal	0.1471%
+6732 Photic	0.1466%
+6716 additional	0.1462%
 6713 times	0.1462%
-6713 She	0.1462%
 6709 had	0.1461%
+6665 events	0.1451%
 6606 have	0.1438%
 6573 handed	0.1431%
-6559 Burst	0.1428%
-6532 M	0.1422%
-6391 It	0.1391%
+6549 bpm	0.1426%
 6387 HR	0.1391%
 6338 appears	0.1380%
+6318 m	0.1376%
 6229 lead	0.1356%
-6228 Drowsiness	0.1356%
 6154 evidence	0.1340%
+6128 burst	0.1334%
 6127 F	0.1334%
 6034 than	0.1314%
 6011 opening	0.1309%
 5994 hours	0.1305%
 5938 software	0.1293%
 5933 frontocentral	0.1292%
+5827 clinical	0.1269%
+5823 multiple	0.1268%
 5823 awake	0.1268%
-5818 One	0.1267%
+5797 these	0.1262%
+5795 During	0.1262%
 5711 woman	0.1243%
-5555 Diffuse	0.1209%
+5683 one	0.1237%
+5600 frontally	0.1219%
+5582 STUDY	0.1215%
+5528 DISCHARGES	0.1204%
 5527 consistent	0.1203%
-5502 He	0.1198%
 5501 REASON	0.1198%
+5501 FOR	0.1198%
+5498 Seizures	0.1197%
+5474 ABNORMAL	0.1192%
 5418 central	0.1180%
-5371 LONG	0.1169%
 5361 artifact	0.1167%
-5312 Intermittent	0.1156%
-5309 Then	0.1156%
-5290 TERM	0.1152%
+5255 then	0.1144%
 5234 dysfunction	0.1140%
-5231 After	0.1139%
-5152 TECHNICAL	0.1122%
-4990 MONITORING	0.1086%
+5097 diffuse	0.1110%
 4959 complexes	0.1080%
-4957 Her	0.1079%
 4956 demonstrates	0.1079%
 4947 driving	0.1077%
-4936 DIFFICULTIES	0.1075%
+4939 Continuous	0.1075%
+4936 drowsiness	0.1075%
+4936 TECHNICAL	0.1075%
+4934 These	0.1074%
 4906 reactive	0.1068%
 4902 characterized	0.1067%
+4882 SEIZURES	0.1063%
+4876 her	0.1062%
 4772 cerebral	0.1039%
+4720 DIFFICULTIES	0.1028%
 4715 clonic	0.1027%
-4666 Bilateral	0.1016%
+4696 long	0.1022%
+4669 term	0.1017%
+4585 monitoring	0.0998%
 4556 opens	0.0992%
 4528 Keppra	0.0986%
-4500 Vertex	0.0980%
 4474 male	0.0974%
-4425 FINDINGS	0.0963%
+4428 Focal	0.0964%
 4399 out	0.0958%
-4361 Symmetric	0.0949%
-4361 Polyspike	0.0949%
 4340 discharge	0.0945%
+4334 symmetric	0.0944%
+4315 intermittent	0.0939%
 4314 voltage	0.0939%
-4310 Tonic	0.0938%
+4311 vertex	0.0939%
 4285 increase	0.0933%
-4258 Low	0.0927%
 4257 seems	0.0927%
+4234 bilateral	0.0922%
+4234 after	0.0922%
 4201 drowsy	0.0915%
 4176 did	0.0909%
-4128 Status	0.0899%
+4067 tonic	0.0885%
 4044 bedside	0.0880%
+4042 low	0.0880%
 4042 amount	0.0880%
 4015 does	0.0874%
-4015 Spikes	0.0874%
-3969 Features	0.0864%
-3959 Last	0.0862%
-3929 Brief	0.0855%
-3913 They	0.0852%
+3988 spikes	0.0868%
+3985 polyspike	0.0868%
 3911 bit	0.0851%
-3909 However	0.0851%
 3888 first	0.0846%
-3882 Previous	0.0845%
-3860 Throughout	0.0840%
-3850 HEART	0.0838%
+3853 she	0.0839%
 3830 reaches	0.0834%
 3805 notes	0.0828%
 3801 Dilantin	0.0828%
-3799 Head	0.0827%
 3798 including	0.0827%
-3778 EPISODES	0.0823%
-3774 Maximum	0.0822%
+3779 throughout	0.0823%
+3774 it	0.0822%
 3773 associated	0.0821%
 3743 sharply	0.0815%
-3717 About	0.0809%
-3684 Subtle	0.0802%
-3668 Review	0.0799%
+3720 maximum	0.0810%
+3691 As	0.0804%
+3690 about	0.0803%
+3664 head	0.0798%
 3635 contoured	0.0791%
-3579 Prominent	0.0779%
+3630 subtle	0.0790%
+3615 findings	0.0787%
+3614 review	0.0787%
 3562 arising	0.0775%
-3526 RATE	0.0768%
+3508 status	0.0764%
 3505 clear	0.0763%
-3482 CAPTURED	0.0758%
 3474 lasting	0.0756%
+3428 captured	0.0746%
+3425 previous	0.0746%
 3400 now	0.0740%
-3400 Over	0.0740%
+3394 last	0.0739%
+3373 episodes	0.0734%
+3348 features	0.0729%
 3346 second	0.0728%
 3343 very	0.0728%
 3341 followed	0.0727%
-3341 EVENT	0.0727%
+3319 At	0.0723%
 3317 microvolts	0.0722%
 3317 end	0.0722%
-3287 TIME	0.0716%
+3294 continuous	0.0717%
+3292 over	0.0717%
 3265 used	0.0711%
-3260 Paroxysmal	0.0710%
 3235 age	0.0704%
-3235 Occasional	0.0704%
 3234 defined	0.0704%
+3230 rate	0.0703%
 3223 response	0.0702%
-3149 EPISODE	0.0686%
+3213 he	0.0700%
+3179 paroxysmal	0.0692%
+3149 Heart	0.0686%
 3128 relatively	0.0681%
 3128 Depakote	0.0681%
-3127 Minutes	0.0681%
-3124 Small	0.0680%
-3101 Although	0.0675%
-3097 DURATION	0.0674%
+3100 minutes	0.0675%
+3100 Generalized	0.0675%
+3098 time	0.0674%
 3076 electrodes	0.0670%
-3051 P	0.0664%
+3068 prominent	0.0668%
+3051 activating	0.0664%
 3024 faster	0.0658%
 3020 II	0.0657%
-2982 Most	0.0649%
+3016 duration	0.0657%
 2938 spindles	0.0640%
+2909 event	0.0633%
 2887 been	0.0629%
+2883 small	0.0628%
 2879 occipital	0.0627%
+2860 She	0.0623%
 2834 architecture	0.0617%
 2832 mechanism	0.0617%
-2830 Post	0.0616%
 2828 up	0.0616%
 2803 any	0.0610%
 2779 movements	0.0605%
-2778 Approximately	0.0605%
-2774 Following	0.0604%
+2743 brief	0.0597%
+2724 approximately	0.0593%
+2723 post	0.0593%
 2723 described	0.0593%
 2700 somewhat	0.0588%
 2697 female	0.0587%
-2673 Sometimes	0.0582%
-2669 Transitions	0.0581%
 2646 clearly	0.0576%
-2619 Again	0.0570%
+2642 transitions	0.0575%
+2633 most	0.0573%
 2617 can	0.0570%
+2617 It	0.0570%
+2611 Some	0.0568%
 2609 loss	0.0568%
 2563 appear	0.0558%
-2556 Testing	0.0556%
 2535 prolonged	0.0552%
 2506 diagnosis	0.0546%
 2505 evolution	0.0545%
-2483 Myoclonus	0.0541%
-2480 Overall	0.0540%
+2505 Left	0.0545%
+2501 episode	0.0545%
 2471 side	0.0538%
-2456 When	0.0535%
+2457 sometimes	0.0535%
+2457 p	0.0535%
 2430 nurse	0.0529%
 2428 transition	0.0529%
-2428 Mid	0.0529%
 2420 elicits	0.0527%
 2402 reveals	0.0523%
 2401 off	0.0523%
-2396 Underlying	0.0522%
-2368 Others	0.0516%
+2399 study	0.0522%
+2374 mid	0.0517%
 2349 reviewed	0.0511%
-2349 Both	0.0511%
 2348 etiology	0.0511%
 2347 stages	0.0511%
-2345 Muscle	0.0511%
+2342 underlying	0.0510%
+2318 muscle	0.0505%
+2318 however	0.0505%
 2318 Ativan	0.0505%
-2316 Per	0.0504%
-2291 All	0.0499%
-2268 Day	0.0494%
+2295 again	0.0500%
+2294 myoclonus	0.0499%
+2293 Normal	0.0499%
+2289 per	0.0498%
+2289 He	0.0498%
 2267 nonspecific	0.0494%
 2266 button	0.0493%
-2266 His	0.0493%
+2241 day	0.0488%
 2240 into	0.0488%
-2239 I	0.0487%
 2237 seem	0.0487%
 2214 include	0.0482%
+2212 they	0.0482%
 2187 C	0.0476%
+2186 although	0.0476%
 2185 frequencies	0.0476%
 2185 complex	0.0476%
-2184 While	0.0475%
 2182 correlate	0.0475%
 2155 above	0.0469%
 2131 nurses	0.0464%
 2129 produces	0.0464%
-2122 Excess	0.0462%
+2125 others	0.0463%
+2124 testing	0.0462%
+2102 occasional	0.0458%
 2102 definitive	0.0458%
-2098 Prior	0.0457%
+2077 I	0.0452%
+2049 while	0.0446%
 2017 who	0.0439%
+2017 prior	0.0439%
 1996 least	0.0435%
-1995 Recurrent	0.0434%
+1996 correlation	0.0435%
 1994 completed	0.0434%
-1994 Rare	0.0434%
-1994 K	0.0434%
-1967 If	0.0428%
 1961 impairment	0.0427%
 1943 diffusely	0.0423%
 1942 little	0.0423%
+1940 Frontally	0.0422%
 1917 lower	0.0417%
+1917 both	0.0417%
+1916 when	0.0417%
 1915 alarm	0.0417%
 1915 REM	0.0417%
 1914 medication	0.0417%
-1914 Past	0.0417%
-1914 Medical	0.0417%
 1913 includes	0.0416%
 1912 observed	0.0416%
 1911 EEGs	0.0416%
+1887 K	0.0411%
 1884 relaxed	0.0410%
 1863 identified	0.0406%
 1860 asleep	0.0405%
-1857 Asymmetry	0.0404%
+1835 medications	0.0400%
+1834 his	0.0399%
 1833 without	0.0399%
+1833 past	0.0399%
 1830 individual	0.0398%
+1830 asymmetry	0.0398%
 1824 awareness	0.0397%
-1809 Frequent	0.0394%
-1809 FP	0.0394%
-1803 Recent	0.0393%
 1782 hour	0.0388%
 1781 occurred	0.0388%
 1781 man	0.0388%
-1780 Refractory	0.0388%
 1778 morning	0.0387%
+1776 recent	0.0387%
 1776 primarily	0.0387%
-1752 Likely	0.0381%
+1772 Stage	0.0386%
 1751 same	0.0381%
 1745 less	0.0380%
 1723 accentuated	0.0375%
 1701 arm	0.0370%
+1701 They	0.0370%
+1698 medical	0.0370%
 1697 hypersynchronous	0.0369%
 1694 Lamictal	0.0369%
 1674 until	0.0364%
 1674 structural	0.0364%
 1674 electrographic	0.0364%
-1674 Markedly	0.0364%
-1674 Later	0.0364%
 1671 related	0.0364%
 1669 could	0.0363%
 1647 continues	0.0359%
-1647 Similar	0.0359%
-1647 Fast	0.0359%
 1646 continuously	0.0358%
-1645 Significant	0.0358%
+1645 recurrent	0.0358%
 1644 effect	0.0358%
+1643 overall	0.0358%
+1620 fast	0.0353%
 1620 changes	0.0353%
+1618 significant	0.0352%
 1618 shaking	0.0352%
 1616 produced	0.0352%
 1614 consciousness	0.0351%
-1614 Tegretol	0.0351%
 1593 appeared	0.0347%
-1593 Primary	0.0347%
 1591 so	0.0346%
-1591 Increasing	0.0346%
-1591 Deeper	0.0346%
+1591 refractory	0.0346%
+1591 all	0.0346%
+1591 On	0.0346%
+1591 However	0.0346%
 1590 higher	0.0346%
+1587 Tegretol	0.0346%
 1566 team	0.0341%
+1566 similar	0.0341%
 1566 maximal	0.0341%
-1566 Adult	0.0341%
+1566 later	0.0341%
 1565 hypertension	0.0341%
 1564 would	0.0341%
 1564 demonstrate	0.0341%
 1562 free	0.0340%
 1561 unresponsive	0.0340%
 1560 component	0.0340%
+1539 primary	0.0335%
 1538 irritability	0.0335%
 1537 typical	0.0335%
+1536 rare	0.0334%
+1536 likely	0.0334%
 1535 eyes	0.0334%
 1535 becomes	0.0334%
-1535 Suddenly	0.0334%
 1532 suggestive	0.0334%
+1512 frequent	0.0329%
 1510 either	0.0329%
 1509 years	0.0329%
 1485 occasion	0.0323%
@@ -399,106 +431,120 @@
 1483 suppression	0.0323%
 1483 early	0.0323%
 1483 demonstrated	0.0323%
-1483 Irregular	0.0323%
 1475 technologist	0.0321%
 1458 part	0.0317%
 1458 attenuation	0.0317%
 1458 almost	0.0317%
 1456 appearance	0.0317%
+1454 following	0.0317%
 1452 presents	0.0316%
-1452 Isolated	0.0316%
-1450 Towards	0.0316%
 1448 able	0.0315%
-1431 CAPTURE	0.0312%
-1429 Other	0.0311%
-1404 Slightly	0.0306%
 1403 postictal	0.0305%
 1402 movement	0.0305%
-1401 Phenobarbital	0.0305%
-1399 POSTS	0.0305%
+1402 EVENTS	0.0305%
+1397 BPM	0.0304%
+1396 towards	0.0304%
 1377 regards	0.0300%
-1377 Push	0.0300%
-1376 Intermittently	0.0300%
+1377 FP	0.0300%
+1375 increasing	0.0299%
 1373 process	0.0299%
 1371 considered	0.0298%
+1350 slightly	0.0294%
 1350 regions	0.0294%
-1350 Only	0.0294%
 1348 jerking	0.0293%
 1346 confusion	0.0293%
-1343 Presence	0.0292%
 1323 sections	0.0288%
 1323 section	0.0288%
-1322 Suppressed	0.0288%
+1323 adult	0.0288%
+1322 intermittently	0.0288%
 1321 onset	0.0288%
 1321 minute	0.0288%
-1321 Shifting	0.0288%
-1320 Many	0.0287%
-1320 Absence	0.0287%
+1321 Background	0.0288%
+1320 Following	0.0287%
 1296 particularly	0.0282%
+1296 only	0.0282%
 1296 infant	0.0282%
-1296 NOTE	0.0282%
-1296 Mv	0.0282%
-1296 ICTAL	0.0282%
+1296 Multiple	0.0282%
+1296 Additional	0.0282%
 1294 focus	0.0282%
+1294 Seizure	0.0282%
+1292 Drowsiness	0.0281%
 1290 remains	0.0281%
+1289 presence	0.0281%
 1269 detector	0.0276%
-1267 Mild	0.0276%
+1268 suppressed	0.0276%
 1266 back	0.0276%
+1265 suddenly	0.0275%
 1265 PLEDS	0.0275%
 1264 elicited	0.0275%
 1242 stopped	0.0270%
+1242 push	0.0270%
+1242 mV	0.0270%
 1242 different	0.0270%
-1242 Marked	0.0270%
-1241 Repeat	0.0270%
 1240 spread	0.0270%
-1240 START	0.0270%
+1238 if	0.0270%
 1238 generous	0.0270%
 1234 idiopathic	0.0269%
 1215 frequently	0.0265%
+1215 By	0.0265%
 1214 nocturnal	0.0264%
+1213 start	0.0264%
 1213 mg	0.0264%
 1212 period	0.0264%
 1211 organized	0.0264%
+1211 isolated	0.0264%
 1211 Topamax	0.0264%
 1188 staring	0.0259%
+1188 note	0.0259%
 1188 known	0.0259%
+1188 ictal	0.0259%
 1188 difficult	0.0259%
 1188 developmental	0.0259%
 1188 classification	0.0259%
+1187 repeat	0.0258%
 1186 supports	0.0258%
-1186 Periodic	0.0258%
+1186 none	0.0258%
+1186 Brief	0.0258%
+1185 absence	0.0258%
 1182 studies	0.0257%
 1161 reported	0.0253%
 1161 included	0.0253%
-1161 Change	0.0253%
+1160 digital	0.0253%
+1159 mild	0.0252%
+1159 irregular	0.0252%
 1159 injury	0.0252%
 1159 ago	0.0252%
 1157 those	0.0252%
-1157 Intermixed	0.0252%
 1155 longer	0.0251%
-1133 Several	0.0247%
+1134 deeper	0.0247%
+1133 Occasional	0.0247%
 1132 formed	0.0246%
 1132 drifts	0.0246%
 1131 state	0.0246%
 1129 occur	0.0246%
+1129 Excess	0.0246%
 1107 diabetes	0.0241%
-1107 Nursing	0.0241%
+1107 RECORDING	0.0241%
 1106 arrest	0.0241%
 1105 starts	0.0241%
 1105 attenuates	0.0241%
 1105 amplitudes	0.0241%
-1105 Two	0.0241%
+1103 intermixed	0.0240%
 1101 started	0.0240%
 1080 will	0.0235%
 1080 trauma	0.0235%
+1080 markedly	0.0235%
 1080 epilepticus	0.0235%
-1078 Comparison	0.0235%
+1080 change	0.0235%
+1079 several	0.0235%
+1077 many	0.0234%
 1076 harmonic	0.0234%
-1076 Zonisamide	0.0234%
 1074 quite	0.0234%
+1074 Bursts	0.0234%
 1053 resection	0.0229%
 1053 best	0.0229%
 1053 begin	0.0229%
+1052 Right	0.0229%
 1051 admitted	0.0229%
 1051 Vimpat	0.0229%
 1049 month	0.0228%
@@ -513,33 +559,40 @@
  997 slower	0.0217%
  997 handful	0.0217%
  997 biting	0.0217%
+ 997 Phenobarbital	0.0217%
+ 997 Intermittent	0.0217%
+ 997 After	0.0217%
  995 them	0.0217%
  995 since	0.0217%
- 995 Disorganized	0.0217%
+ 993 excess	0.0216%
  972 secondary	0.0212%
  972 possible	0.0212%
+ 972 periodic	0.0212%
  971 occurring	0.0211%
  970 do	0.0211%
+ 970 comparison	0.0211%
+ 968 Zonisamide	0.0211%
+ 968 Stimulation	0.0211%
  966 turning	0.0210%
  945 symmetrical	0.0206%
  945 prefrontal	0.0206%
  945 predominance	0.0206%
  945 inherited	0.0206%
  945 body	0.0206%
+ 945 OR	0.0206%
  944 routine	0.0206%
+ 943 shifting	0.0205%
  943 going	0.0205%
  943 available	0.0205%
- 943 Within	0.0205%
- 943 Even	0.0205%
  942 beats	0.0205%
  941 today	0.0205%
- 941 See	0.0205%
  940 frontotemporal	0.0205%
  918 sustained	0.0200%
  918 significantly	0.0200%
  918 responsive	0.0200%
  918 activated	0.0200%
- 918 Much	0.0200%
+ 916 POSTS	0.0199%
+ 915 Although	0.0199%
  914 occasions	0.0199%
  891 oral	0.0194%
  891 independently	0.0194%
@@ -548,8 +601,11 @@
  891 audio	0.0194%
  891 asynchronous	0.0194%
  890 th	0.0194%
+ 889 within	0.0194%
  889 tumor	0.0194%
  889 producing	0.0194%
+ 889 other	0.0194%
+ 889 even	0.0194%
  888 cardiac	0.0193%
  887 behavior	0.0193%
  864 occasionally	0.0188%
@@ -557,46 +613,45 @@
  864 deep	0.0188%
  864 alternans	0.0188%
  864 activate	0.0188%
- 864 Trace	0.0188%
  862 through	0.0188%
  862 field	0.0188%
- 862 What	0.0188%
  860 accentuates	0.0187%
- 860 New	0.0187%
- 860 Disorganization	0.0187%
  837 unclear	0.0182%
  837 partial	0.0182%
  837 drifting	0.0182%
  837 diagnostic	0.0182%
  837 anteriorly	0.0182%
+ 837 Overall	0.0182%
  836 session	0.0182%
  836 remarkable	0.0182%
+ 834 disorganized	0.0182%
  834 compatible	0.0182%
  833 vigorous	0.0181%
  833 results	0.0181%
  833 breach	0.0181%
  810 rest	0.0176%
  810 become	0.0176%
+ 810 FINDINGS	0.0176%
  809 regard	0.0176%
  809 produce	0.0176%
  809 hypoxic	0.0176%
  809 code	0.0176%
  809 capturing	0.0176%
- 809 Follow	0.0176%
  808 arrhythmic	0.0176%
  808 CZ	0.0176%
+ 806 disorganization	0.0175%
  783 mental	0.0170%
+ 783 marked	0.0170%
  783 mainly	0.0170%
  783 disruption	0.0170%
+ 783 capture	0.0170%
+ 783 Sleep	0.0170%
  783 Lastly	0.0170%
- 783 INTERICTAL	0.0170%
  781 supraharmonic	0.0170%
  781 looks	0.0170%
  781 limits	0.0170%
- 781 Notable	0.0170%
- 781 Despite	0.0170%
- 781 Around	0.0170%
- 779 Fragments	0.0170%
+ 781 Two	0.0170%
+ 781 Spike	0.0170%
  756 week	0.0165%
  756 upper	0.0165%
  756 reports	0.0165%
@@ -604,41 +659,45 @@
  756 decrease	0.0165%
  756 according	0.0165%
  756 O	0.0165%
- 756 Independent	0.0165%
  754 suggested	0.0164%
  754 night	0.0164%
  754 mixed	0.0164%
  754 Lovenox	0.0164%
  729 unable	0.0159%
  729 hemispheric	0.0159%
+ 729 If	0.0159%
  728 poor	0.0158%
+ 728 An	0.0158%
  727 symmetrically	0.0158%
  727 somnolent	0.0158%
- 727 Just	0.0158%
  725 picked	0.0158%
  725 months	0.0158%
  725 below	0.0158%
  702 range	0.0153%
+ 702 much	0.0153%
  702 modulated	0.0153%
  702 go	0.0153%
  702 convulsions	0.0153%
  702 communicated	0.0153%
- 702 Spells	0.0153%
+ 701 follow	0.0153%
  700 move	0.0152%
+ 700 just	0.0152%
  700 consistently	0.0152%
- 700 Ongoing	0.0152%
+ 700 All	0.0152%
+ 698 fragments	0.0152%
+ 675 spells	0.0147%
  675 represent	0.0147%
  675 possibly	0.0147%
  675 perhaps	0.0147%
  675 consists	0.0147%
  675 automatisms	0.0147%
- 675 Multifocal	0.0147%
- 675 Clinically	0.0147%
- 675 Behaviorally	0.0147%
+ 675 Slow	0.0147%
+ 675 S	0.0147%
  674 cortical	0.0147%
  674 blink	0.0147%
  674 begins	0.0147%
  673 transitioning	0.0147%
+ 671 see	0.0146%
  648 usually	0.0141%
  648 suggesting	0.0141%
  648 slight	0.0141%
@@ -646,32 +705,34 @@
  648 posterotemporal	0.0141%
  648 perform	0.0141%
  648 once	0.0141%
+ 648 nursing	0.0141%
  648 notched	0.0141%
  648 focality	0.0141%
  648 disorder	0.0141%
  648 depression	0.0141%
  648 comatose	0.0141%
  648 artifacts	0.0141%
- 648 Twitching	0.0141%
  648 Trileptal	0.0141%
- 648 Topiramate	0.0141%
- 648 Temple	0.0141%
- 648 Previously	0.0141%
- 648 Fentanyl	0.0141%
- 648 Compared	0.0141%
+ 648 PATIENT	0.0141%
+ 648 EPISODE	0.0141%
+ 648 CAPTURE	0.0141%
  647 prognosis	0.0141%
  646 versus	0.0141%
  646 stop	0.0141%
  646 parietal	0.0141%
  646 occurs	0.0141%
+ 646 new	0.0141%
  646 incontinence	0.0141%
  646 hyperventilating	0.0141%
- 646 Discrete	0.0141%
+ 646 around	0.0141%
+ 646 Clinical	0.0141%
  645 alert	0.0140%
+ 621 what	0.0135%
  621 suggest	0.0135%
  621 stiffening	0.0135%
  621 seemed	0.0135%
  621 representation	0.0135%
+ 621 previously	0.0135%
  621 next	0.0135%
  621 moderate	0.0135%
  621 helpful	0.0135%
@@ -679,16 +740,18 @@
  621 bihemispheric	0.0135%
  621 behavioral	0.0135%
  621 asymmetric	0.0135%
- 621 Posteriorly	0.0135%
- 621 Afterwards	0.0135%
+ 621 Fentanyl	0.0135%
+ 621 Features	0.0135%
  620 initial	0.0135%
  620 Versed	0.0135%
+ 620 Status	0.0135%
+ 620 Patient	0.0135%
  619 presented	0.0135%
  619 family	0.0135%
- 619 Given	0.0135%
  617 pronounced	0.0134%
  617 headache	0.0134%
  594 typically	0.0129%
+ 594 twitching	0.0129%
  594 surgery	0.0129%
  594 subsided	0.0129%
  594 lesion	0.0129%
@@ -696,11 +759,15 @@
  594 felt	0.0129%
  594 ends	0.0129%
  594 context	0.0129%
+ 594 compared	0.0129%
  594 acute	0.0129%
- 594 Scant	0.0129%
+ 594 P	0.0129%
+ 594 Markedly	0.0129%
  593 arousal	0.0129%
  592 tracing	0.0129%
+ 592 given	0.0129%
  592 elicit	0.0129%
+ 592 discrete	0.0129%
  592 deprivation	0.0129%
  592 comes	0.0129%
  591 unresponsiveness	0.0129%
@@ -716,14 +783,15 @@
  567 discreet	0.0123%
  567 concerning	0.0123%
  567 abnormalities	0.0123%
- 567 Mother	0.0123%
- 567 Initially	0.0123%
+ 567 Notable	0.0123%
  565 youth	0.0123%
  565 supportive	0.0123%
  565 Xanax	0.0123%
+ 565 Last	0.0123%
  564 activities	0.0123%
- 563 PHYSICIAN	0.0123%
  540 young	0.0118%
+ 540 temple	0.0118%
+ 540 scant	0.0118%
  540 origin	0.0118%
  540 nerve	0.0118%
  540 delay	0.0118%
@@ -731,15 +799,11 @@
  540 always	0.0118%
  540 along	0.0118%
  540 alarms	0.0118%
- 540 Unit	0.0118%
- 540 Nearly	0.0118%
- 540 Limited	0.0118%
+ 540 When	0.0118%
+ 540 Other	0.0118%
  540 ICU	0.0118%
- 540 Found	0.0118%
- 540 CONDITION	0.0118%
  538 lateral	0.0117%
  538 apparent	0.0117%
- 538 Another	0.0117%
  537 recommended	0.0117%
  536 signature	0.0117%
  536 fourth	0.0117%
@@ -749,39 +813,41 @@
  513 stroke	0.0112%
  513 remaining	0.0112%
  513 phenomenon	0.0112%
+ 513 nearly	0.0112%
  513 moving	0.0112%
  513 majority	0.0112%
  513 lobes	0.0112%
+ 513 initially	0.0112%
+ 513 found	0.0112%
  513 extremity	0.0112%
  513 discontinuous	0.0112%
  513 data	0.0112%
  513 briefly	0.0112%
  513 before	0.0112%
- 513 Large	0.0112%
  513 Klonopin	0.0112%
- 513 Between	0.0112%
  512 quadrant	0.0111%
- 512 Excessive	0.0111%
  511 whole	0.0111%
  511 relative	0.0111%
  511 further	0.0111%
  511 febrile	0.0111%
  511 entire	0.0111%
  511 determine	0.0111%
+ 511 Prominent	0.0111%
+ 486 unit	0.0106%
  486 transitioned	0.0106%
  486 revealed	0.0106%
  486 provided	0.0106%
  486 ping	0.0106%
  486 pairs	0.0106%
+ 486 mother	0.0106%
  486 morphology	0.0106%
+ 486 limited	0.0106%
  486 hand	0.0106%
  486 especially	0.0106%
  486 epochs	0.0106%
+ 486 clinically	0.0106%
  486 Zonegran	0.0106%
- 486 Poly	0.0106%
- 486 Periods	0.0106%
- 486 CURRENT	0.0106%
- 486 Acid	0.0106%
+ 486 CONDITION	0.0106%
  486 Abilify	0.0106%
  485 intubated	0.0106%
  484 speech	0.0105%
@@ -791,35 +857,49 @@
  484 cannot	0.0105%
  484 asymmetries	0.0105%
  484 achieved	0.0105%
- 484 Spontaneous	0.0105%
- 484 Mu	0.0105%
+ 484 SEIZURE	0.0105%
+ 483 posts	0.0105%
  482 plus	0.0105%
  482 closed	0.0105%
  459 rocking	0.0100%
  459 reveal	0.0100%
  459 retardation	0.0100%
+ 459 poly	0.0100%
+ 459 periods	0.0100%
  459 paper	0.0100%
  459 otherwise	0.0100%
  459 motor	0.0100%
  459 microvolt	0.0100%
+ 459 large	0.0100%
  459 involuntary	0.0100%
  459 foot	0.0100%
  459 bipolar	0.0100%
- 459 Vagal	0.0100%
+ 459 Nursing	0.0100%
+ 459 Marked	0.0100%
  458 brain	0.0100%
- 458 TOTAL	0.0100%
+ 458 With	0.0100%
+ 458 Rare	0.0100%
+ 458 Diffuse	0.0100%
+ 457 spontaneous	0.0099%
  457 encephalopathy	0.0099%
  457 became	0.0099%
+ 457 another	0.0099%
+ 457 Previous	0.0099%
+ 457 Posterior	0.0099%
+ 457 Deeper	0.0099%
  432 unresponsively	0.0094%
+ 432 trace	0.0094%
  432 speed	0.0094%
  432 ponging	0.0094%
  432 originating	0.0094%
  432 neonatal	0.0094%
  432 nature	0.0094%
+ 432 multifocal	0.0094%
  432 mass	0.0094%
  432 like	0.0094%
  432 important	0.0094%
  432 imaging	0.0094%
+ 432 heart	0.0094%
  432 emergency	0.0094%
  432 describe	0.0094%
  432 decreasing	0.0094%
@@ -827,15 +907,23 @@
  432 cavernoma	0.0094%
  432 awaken	0.0094%
  432 aura	0.0094%
- 432 Recently	0.0094%
+ 432 Trace	0.0094%
+ 432 Topiramate	0.0094%
+ 432 Testing	0.0094%
  432 Prenatal	0.0094%
- 432 Myoclonic	0.0094%
- 432 Moves	0.0094%
+ 432 His	0.0094%
+ 432 Fp	0.0094%
+ 432 Epileptiform	0.0094%
+ 432 Despite	0.0094%
  432 CVA	0.0094%
+ 432 Both	0.0094%
+ 432 Bilateral	0.0094%
  432 Bi	0.0094%
+ 432 Behaviorally	0.0094%
  432 August	0.0094%
  431 jerks	0.0094%
  431 appearing	0.0094%
+ 431 Burst	0.0094%
  430 wax	0.0094%
  430 unfortunately	0.0094%
  430 syndrome	0.0094%
@@ -851,52 +939,58 @@
  405 symptomatic	0.0088%
  405 shows	0.0088%
  405 resolved	0.0088%
+ 405 posteriorly	0.0088%
  405 portions	0.0088%
  405 poorly	0.0088%
  405 ones	0.0088%
  405 nonepileptic	0.0088%
+ 405 moves	0.0088%
  405 monomorphic	0.0088%
  405 leg	0.0088%
  405 indicates	0.0088%
+ 405 independent	0.0088%
  405 improving	0.0088%
+ 405 excessive	0.0088%
  405 encephalitis	0.0088%
  405 deprived	0.0088%
  405 daily	0.0088%
  405 consisting	0.0088%
  405 characteristic	0.0088%
- 405 Positive	0.0088%
- 405 Lamotrigine	0.0088%
- 405 DIFFICULTY	0.0088%
+ 405 afterwards	0.0088%
+ 405 TERM	0.0088%
+ 405 Of	0.0088%
+ 405 MONITORING	0.0088%
+ 405 LONG	0.0088%
  404 treated	0.0088%
+ 404 phenobarbital	0.0088%
  403 various	0.0088%
  403 midtemporal	0.0088%
  403 metabolic	0.0088%
  403 highly	0.0088%
  403 fibrillation	0.0088%
  403 atrial	0.0088%
- 403 Short	0.0088%
  402 photoparoxysmal	0.0088%
  378 stimulator	0.0082%
+ 378 recently	0.0082%
  378 question	0.0082%
+ 378 positive	0.0082%
  378 piece	0.0082%
  378 motion	0.0082%
  378 lacks	0.0082%
+ 378 interictal	0.0082%
  378 greater	0.0082%
  378 fragmented	0.0082%
  378 evening	0.0082%
  378 earlier	0.0082%
  378 days	0.0082%
  378 confused	0.0082%
+ 378 between	0.0082%
  378 becoming	0.0082%
  378 attenuated	0.0082%
+ 378 Shifting	0.0082%
  378 Seroquel	0.0082%
- 378 Please	0.0082%
- 378 Lisinopril	0.0082%
  378 January	0.0082%
- 378 Increased	0.0082%
- 378 Because	0.0082%
- 378 Based	0.0082%
- 378 BASELINE	0.0082%
+ 378 Acid	0.0082%
  377 transient	0.0082%
  377 disrupted	0.0082%
  377 anoxic	0.0082%
@@ -904,8 +998,10 @@
  376 trembling	0.0082%
  376 toxic	0.0082%
  376 terms	0.0082%
+ 376 short	0.0082%
  376 received	0.0082%
- 376 Slowly	0.0082%
+ 376 Polyspike	0.0082%
+ 376 Ongoing	0.0082%
  376 IV	0.0082%
  376 III	0.0082%
  375 Remeron	0.0082%
@@ -924,30 +1020,38 @@
  351 arms	0.0076%
  351 accident	0.0076%
  351 accentuation	0.0076%
- 351 Severe	0.0076%
- 351 Phenytoin	0.0076%
+ 351 Interictal	0.0076%
+ 351 Independent	0.0076%
  351 Gastaut	0.0076%
+ 350 total	0.0076%
  350 evaluation	0.0076%
+ 350 Recurrent	0.0076%
  349 suggestion	0.0076%
  349 strong	0.0076%
  349 respond	0.0076%
  349 non	0.0076%
  349 gentleman	0.0076%
  349 flash	0.0076%
+ 349 despite	0.0076%
  349 Zoloft	0.0076%
- 349 General	0.0076%
+ 349 Most	0.0076%
  324 weeks	0.0071%
+ 324 vagal	0.0071%
+ 324 two	0.0071%
  324 spiking	0.0071%
  324 renal	0.0071%
  324 polymorphic	0.0071%
  324 palsy	0.0071%
  324 overnight	0.0071%
+ 324 ongoing	0.0071%
  324 never	0.0071%
+ 324 myoclonic	0.0071%
  324 milestones	0.0071%
  324 maybe	0.0071%
  324 localized	0.0071%
  324 intractable	0.0071%
  324 information	0.0071%
+ 324 increased	0.0071%
  324 falls	0.0071%
  324 essentially	0.0071%
  324 disease	0.0071%
@@ -957,20 +1061,24 @@
  324 characteristics	0.0071%
  324 bifrontal	0.0071%
  324 bed	0.0071%
+ 324 because	0.0071%
  324 Tylenol	0.0071%
- 324 Screaming	0.0071%
+ 324 Please	0.0071%
  324 Neurontin	0.0071%
- 324 Mildly	0.0071%
+ 324 More	0.0071%
  324 Lennox	0.0071%
+ 324 Lamotrigine	0.0071%
+ 324 Irregular	0.0071%
+ 324 For	0.0071%
  324 February	0.0071%
- 324 DATE	0.0071%
- 324 Attempts	0.0071%
+ 324 Again	0.0071%
  323 awakened	0.0070%
  323 PEA	0.0070%
  323 EMG	0.0070%
  322 stiff	0.0070%
  322 sharps	0.0070%
  322 psychogenic	0.0070%
+ 322 physician	0.0070%
  322 infectious	0.0070%
  322 epileptogenic	0.0070%
  322 effort	0.0070%
@@ -980,14 +1088,14 @@
  322 Protonix	0.0070%
  322 Modest	0.0070%
  322 Flexeril	0.0070%
- 322 Doxycycline	0.0070%
- 322 Confusional	0.0070%
  321 complete	0.0070%
  297 waveforms	0.0065%
  297 variable	0.0065%
  297 trying	0.0065%
  297 stimulated	0.0065%
+ 297 severe	0.0065%
  297 search	0.0065%
+ 297 screaming	0.0065%
  297 rolling	0.0065%
  297 regular	0.0065%
  297 recall	0.0065%
@@ -1008,37 +1116,42 @@
  297 closing	0.0065%
  297 benign	0.0065%
  297 basis	0.0065%
+ 297 attempts	0.0065%
  297 appropriate	0.0065%
- 297 Simvastatin	0.0065%
- 297 Simple	0.0065%
- 297 Profound	0.0065%
- 297 Hydrochlorothiazide	0.0065%
+ 297 Frequent	0.0065%
+ 297 Event	0.0065%
  296 bilaterally	0.0064%
  295 verbally	0.0064%
  295 outside	0.0064%
  295 make	0.0064%
  295 great	0.0064%
  295 good	0.0064%
+ 295 general	0.0064%
  295 external	0.0064%
  295 differs	0.0064%
  295 deal	0.0064%
- 295 Bioccipital	0.0064%
+ 295 confusional	0.0064%
  270 vocalization	0.0059%
  270 variants	0.0059%
  270 supplemented	0.0059%
  270 spurts	0.0059%
  270 simply	0.0059%
+ 270 simple	0.0059%
  270 returns	0.0059%
  270 responsiveness	0.0059%
  270 removed	0.0059%
  270 q	0.0059%
  270 pushed	0.0059%
  270 prominence	0.0059%
+ 270 profound	0.0059%
  270 pregnant	0.0059%
  270 predominantly	0.0059%
  270 observation	0.0059%
  270 numbness	0.0059%
+ 270 mu	0.0059%
+ 270 mildly	0.0059%
  270 might	0.0059%
+ 270 lisinopril	0.0059%
  270 life	0.0059%
  270 interbursts	0.0059%
  270 hypersynchrony	0.0059%
@@ -1057,6 +1170,7 @@
  270 cirrhosis	0.0059%
  270 born	0.0059%
  270 blunt	0.0059%
+ 270 baseline	0.0059%
  270 aware	0.0059%
  270 arousals	0.0059%
  270 anticipated	0.0059%
@@ -1064,21 +1178,21 @@
  270 We	0.0059%
  270 Vecuronium	0.0059%
  270 Valium	0.0059%
- 270 Polyspikes	0.0059%
- 270 Paucity	0.0059%
+ 270 Suddenly	0.0059%
+ 270 Simvastatin	0.0059%
+ 270 See	0.0059%
+ 270 Phenytoin	0.0059%
  270 November	0.0059%
- 270 N	0.0059%
- 270 Immediately	0.0059%
+ 270 Long	0.0059%
  270 Ibuprofen	0.0059%
- 270 Hertz	0.0059%
- 270 Hearing	0.0059%
- 270 Folic	0.0059%
  270 Epileptius	0.0059%
- 270 Electroencephalogram	0.0059%
+ 270 Epilepsy	0.0059%
+ 270 EPISODES	0.0059%
  270 Continious	0.0059%
- 270 Clonazepam	0.0059%
- 270 Care	0.0059%
+ 270 Also	0.0059%
  269 each	0.0059%
+ 269 RATE	0.0059%
+ 269 HEART	0.0059%
  268 waxing	0.0058%
  268 waning	0.0058%
  268 try	0.0058%
@@ -1089,7 +1203,6 @@
  268 inability	0.0058%
  268 degenerative	0.0058%
  268 began	0.0058%
- 268 Migraine	0.0058%
  243 way	0.0053%
  243 under	0.0053%
  243 type	0.0053%
@@ -1103,6 +1216,7 @@
  243 negativity	0.0053%
  243 leads	0.0053%
  243 induction	0.0053%
+ 243 hydrochlorothiazide	0.0053%
  243 hit	0.0053%
  243 him	0.0053%
  243 finding	0.0053%
@@ -1110,25 +1224,32 @@
  243 exam	0.0053%
  243 ending	0.0053%
  243 emanate	0.0053%
+ 243 electroencephalogram	0.0053%
  243 electrocardiogram	0.0053%
  243 drops	0.0053%
  243 drip	0.0053%
  243 congruent	0.0053%
  243 chromosome	0.0053%
+ 243 behaviorally	0.0053%
  243 autism	0.0053%
  243 alcohol	0.0053%
  243 abuse	0.0053%
  243 Zofran	0.0053%
+ 243 Tonic	0.0053%
  243 Percocet	0.0053%
- 243 PRESENT	0.0053%
+ 243 Paucity	0.0053%
+ 243 Others	0.0053%
  243 October	0.0053%
+ 243 Multifocal	0.0053%
  243 March	0.0053%
+ 243 Many	0.0053%
  243 Lasix	0.0053%
- 243 Lambda	0.0053%
- 243 Lack	0.0053%
- 243 Impulse	0.0053%
- 243 FINISH	0.0053%
- 243 Aspirin	0.0053%
+ 243 Hertz	0.0053%
+ 243 Hearing	0.0053%
+ 243 Folic	0.0053%
+ 243 DATE	0.0053%
+ 243 Current	0.0053%
+ 243 Adult	0.0053%
  242 setting	0.0053%
  241 secondarily	0.0052%
  241 reduction	0.0052%
@@ -1141,9 +1262,11 @@
  241 carry	0.0052%
  241 behaviors	0.0052%
  241 asked	0.0052%
+ 241 What	0.0052%
+ 241 Small	0.0052%
+ 241 PHYSICIAN	0.0052%
+ 241 Isolated	0.0052%
  241 GBM	0.0052%
- 241 Exhaustive	0.0052%
- 241 Chlorazepate	0.0052%
  216 wound	0.0047%
  216 worrisome	0.0047%
  216 word	0.0047%
@@ -1155,6 +1278,7 @@
  216 truly	0.0047%
  216 tremors	0.0047%
  216 transforms	0.0047%
+ 216 topiramate	0.0047%
  216 tones	0.0047%
  216 tends	0.0047%
  216 technician	0.0047%
@@ -1181,6 +1305,7 @@
  216 ranging	0.0047%
  216 psychosis	0.0047%
  216 providing	0.0047%
+ 216 present	0.0047%
  216 positivity	0.0047%
  216 points	0.0047%
  216 plebs	0.0047%
@@ -1203,11 +1328,13 @@
  216 loose	0.0047%
  216 locations	0.0047%
  216 late	0.0047%
+ 216 lambda	0.0047%
  216 jiggling	0.0047%
  216 intracerebral	0.0047%
  216 interactive	0.0047%
  216 initiation	0.0047%
  216 incontinent	0.0047%
+ 216 impulse	0.0047%
  216 improve	0.0047%
  216 immediate	0.0047%
  216 hypnogogic	0.0047%
@@ -1219,6 +1346,7 @@
  216 gestational	0.0047%
  216 generally	0.0047%
  216 function	0.0047%
+ 216 finish	0.0047%
  216 fetal	0.0047%
  216 fasting	0.0047%
  216 fades	0.0047%
@@ -1232,6 +1360,8 @@
  216 electro	0.0047%
  216 drug	0.0047%
  216 discontinuity	0.0047%
+ 216 difficulty	0.0047%
+ 216 difficulties	0.0047%
  216 differential	0.0047%
  216 diagnoses	0.0047%
  216 delivery	0.0047%
@@ -1246,6 +1376,7 @@
  216 clarifying	0.0047%
  216 child	0.0047%
  216 chair	0.0047%
+ 216 care	0.0047%
  216 buildup	0.0047%
  216 brushes	0.0047%
  216 boat	0.0047%
@@ -1256,33 +1387,41 @@
  216 already	0.0047%
  216 accept	0.0047%
  216 Zantac	0.0047%
- 216 Wicket	0.0047%
  216 Vitamins	0.0047%
- 216 Unusual	0.0047%
- 216 Three	0.0047%
+ 216 Video	0.0047%
+ 216 Term	0.0047%
  216 Sulfate	0.0047%
+ 216 Sometimes	0.0047%
+ 216 Sharp	0.0047%
  216 Serax	0.0047%
  216 Risperidone	0.0047%
+ 216 Rhythmic	0.0047%
  216 Restoril	0.0047%
  216 Prozac	0.0047%
  216 Procardia	0.0047%
  216 Preeclampsia	0.0047%
- 216 Occipitally	0.0047%
+ 216 Posteriorly	0.0047%
  216 Mycolog	0.0047%
+ 216 Much	0.0047%
  216 Mortrin	0.0047%
+ 216 Medical	0.0047%
+ 216 Low	0.0047%
+ 216 Likely	0.0047%
  216 Levonorgestrel	0.0047%
- 216 LENGTH	0.0047%
+ 216 Increasing	0.0047%
+ 216 Immediately	0.0047%
  216 INTERVAL	0.0047%
  216 Gabapentin	0.0047%
  216 Fluoxetine	0.0047%
  216 Ferrous	0.0047%
- 216 Evaluate	0.0047%
  216 Ethinyl	0.0047%
  216 Estradiol	0.0047%
- 216 DATES	0.0047%
+ 216 Correlation	0.0047%
  216 Consequently	0.0047%
  216 Colace	0.0047%
  216 Calcium	0.0047%
+ 216 Based	0.0047%
+ 216 Afterwards	0.0047%
  215 inpatient	0.0047%
  215 induced	0.0047%
  215 disappearance	0.0047%
@@ -1305,7 +1444,9 @@
  214 physicians	0.0047%
  214 overlooked	0.0047%
  214 odd	0.0047%
+ 214 notable	0.0047%
  214 moved	0.0047%
+ 214 migraine	0.0047%
  214 language	0.0047%
  214 keeps	0.0047%
  214 interact	0.0047%
@@ -1316,6 +1457,7 @@
  214 fairly	0.0047%
  214 example	0.0047%
  214 edema	0.0047%
+ 214 doxycycline	0.0047%
  214 counting	0.0047%
  214 comprehensive	0.0047%
  214 complains	0.0047%
@@ -1331,23 +1473,32 @@
  214 Tramadol	0.0047%
  214 Steven	0.0047%
  214 Sokoll	0.0047%
+ 214 Slowly	0.0047%
+ 214 Slowing	0.0047%
  214 REFERRAL	0.0047%
  214 Probable	0.0047%
+ 214 Periodic	0.0047%
  214 OIRDA	0.0047%
+ 214 New	0.0047%
+ 214 Mu	0.0047%
  214 McGinley	0.0047%
  214 Mary	0.0047%
  214 MS	0.0047%
+ 214 M	0.0047%
  214 Labetalol	0.0047%
  214 Haldol	0.0047%
  214 Glipizide	0.0047%
+ 214 Exhaustive	0.0047%
  214 Drs	0.0047%
  214 Contin	0.0047%
+ 214 Chlorazepate	0.0047%
  214 Careful	0.0047%
  214 Banzel	0.0047%
  214 Azizi	0.0047%
  214 Ausim	0.0047%
  214 Ambien	0.0047%
  189 throat	0.0041%
+ 189 three	0.0041%
  189 tech	0.0041%
  189 subsequently	0.0041%
  189 still	0.0041%
@@ -1357,6 +1508,7 @@
  189 repetitive	0.0041%
  189 recognized	0.0041%
  189 pain	0.0041%
+ 189 occipitally	0.0041%
  189 obscured	0.0041%
  189 number	0.0041%
  189 neurological	0.0041%
@@ -1364,6 +1516,7 @@
  189 makes	0.0041%
  189 longest	0.0041%
  189 lightheadedness	0.0041%
+ 189 lack	0.0041%
  189 intracranial	0.0041%
  189 infrequently	0.0041%
  189 improvement	0.0041%
@@ -1378,21 +1531,21 @@
  189 demonstrating	0.0041%
  189 dementia	0.0041%
  189 commands	0.0041%
+ 189 clonazepam	0.0041%
  189 asthma	0.0041%
- 189 Upon	0.0041%
- 189 Spindle	0.0041%
- 189 Scalp	0.0041%
- 189 Records	0.0041%
- 189 PROBLEMS	0.0041%
+ 189 Vertex	0.0041%
+ 189 Refractory	0.0041%
+ 189 Myoclonus	0.0041%
  189 MCA	0.0041%
- 189 Insulin	0.0041%
- 189 Hospital	0.0041%
- 189 Famotidine	0.0041%
- 189 Carbamazepine	0.0041%
+ 189 DIFFICULTY	0.0041%
+ 189 Clinically	0.0041%
+ 189 CURRENT	0.0041%
  188 jerk	0.0041%
  188 international	0.0041%
  188 alerting	0.0041%
  162 wild	0.0035%
+ 162 wicket	0.0035%
+ 162 upon	0.0035%
  162 truncal	0.0035%
  162 triplet	0.0035%
  162 triphasic	0.0035%
@@ -1403,6 +1556,7 @@
  162 strokes	0.0035%
  162 static	0.0035%
  162 specifically	0.0035%
+ 162 slowly	0.0035%
  162 signs	0.0035%
  162 sign	0.0035%
  162 shunt	0.0035%
@@ -1410,15 +1564,19 @@
  162 schizophrenia	0.0035%
  162 remainder	0.0035%
  162 recovery	0.0035%
+ 162 records	0.0035%
  162 really	0.0035%
  162 r	0.0035%
  162 quickly	0.0035%
  162 purposely	0.0035%
+ 162 problems	0.0035%
  162 potential	0.0035%
+ 162 polyspikes	0.0035%
  162 placed	0.0035%
  162 open	0.0035%
  162 noon	0.0035%
  162 nicotine	0.0035%
+ 162 n	0.0035%
  162 muscles	0.0035%
  162 mini	0.0035%
  162 metallic	0.0035%
@@ -1429,10 +1587,13 @@
  162 insult	0.0035%
  162 implemented	0.0035%
  162 ill	0.0035%
+ 162 i	0.0035%
  162 form	0.0035%
+ 162 famotidine	0.0035%
  162 fall	0.0035%
  162 examination	0.0035%
  162 evolving	0.0035%
+ 162 evaluate	0.0035%
  162 enters	0.0035%
  162 dizziness	0.0035%
  162 display	0.0035%
@@ -1442,6 +1603,7 @@
  162 consisted	0.0035%
  162 centrally	0.0035%
  162 benzodiazepines	0.0035%
+ 162 based	0.0035%
  162 auras	0.0035%
  162 attenuations	0.0035%
  162 attempt	0.0035%
@@ -1452,20 +1614,21 @@
  162 actual	0.0035%
  162 Valproate	0.0035%
  162 Tactile	0.0035%
- 162 St	0.0035%
  162 September	0.0035%
  162 Phenergan	0.0035%
  162 PLED	0.0035%
- 162 Heparin	0.0035%
  162 GPEDs	0.0035%
  162 Flagyl	0.0035%
+ 162 Electrode	0.0035%
  162 Celexa	0.0035%
- 162 Albuterol	0.0035%
+ 162 Carbamazepine	0.0035%
  161 locked	0.0035%
  161 drifted	0.0035%
  161 captures	0.0035%
  161 EMS	0.0035%
+ 161 Disorganized	0.0035%
  161 CPR	0.0035%
+ 161 Bioccipital	0.0035%
  135 waking	0.0029%
  135 vehicle	0.0029%
  135 vascular	0.0029%
@@ -1476,9 +1639,11 @@
  135 talking	0.0029%
  135 subsequent	0.0029%
  135 stopping	0.0029%
+ 135 st	0.0029%
  135 semiology	0.0029%
  135 seldom	0.0029%
  135 scratching	0.0029%
+ 135 scalp	0.0029%
  135 reviewing	0.0029%
  135 returned	0.0029%
  135 rapidly	0.0029%
@@ -1496,6 +1661,7 @@
  135 lasted	0.0029%
  135 issues	0.0029%
  135 interhemispheric	0.0029%
+ 135 insulin	0.0029%
  135 impaired	0.0029%
  135 identifying	0.0029%
  135 hemibody	0.0029%
@@ -1518,23 +1684,37 @@
  135 challenging	0.0029%
  135 being	0.0029%
  135 b	0.0029%
+ 135 aspirin	0.0029%
  135 area	0.0029%
- 135 Trazodone	0.0029%
- 135 Superimposed	0.0029%
- 135 Rule	0.0029%
- 135 Propofol	0.0029%
- 135 Outpatient	0.0029%
+ 135 While	0.0029%
+ 135 Vagal	0.0029%
+ 135 Unusual	0.0029%
+ 135 To	0.0029%
+ 135 Technical	0.0029%
+ 135 Push	0.0029%
+ 135 One	0.0029%
  135 MR	0.0029%
- 135 Infrequent	0.0029%
- 135 Extremely	0.0029%
- 135 Dopamine	0.0029%
+ 135 LENGTH	0.0029%
+ 135 High	0.0029%
+ 135 Heparin	0.0029%
+ 135 Head	0.0029%
+ 135 Has	0.0029%
+ 135 From	0.0029%
+ 135 Episodes	0.0029%
+ 135 EVENT	0.0029%
+ 135 DATES	0.0029%
  135 Crestor	0.0029%
- 135 Continue	0.0029%
- 135 Alternatively	0.0029%
+ 135 Between	0.0029%
+ 135 Around	0.0029%
+ 135 Albuterol	0.0029%
+ 135 Absence	0.0029%
  134 photoelectric	0.0029%
  134 jaw	0.0029%
  134 hyperthyroidism	0.0029%
+ 134 bioccipital	0.0029%
  134 awakens	0.0029%
+ 134 Anterior	0.0029%
+ 108 zonisamide	0.0024%
  108 work	0.0024%
  108 warning	0.0024%
  108 vitals	0.0024%
@@ -1548,6 +1728,7 @@
  108 tested	0.0024%
  108 taken	0.0024%
  108 take	0.0024%
+ 108 superimposed	0.0024%
  108 substantially	0.0024%
  108 subsides	0.0024%
  108 stares	0.0024%
@@ -1605,6 +1786,7 @@
  108 irregularly	0.0024%
  108 interesting	0.0024%
  108 intercurrent	0.0024%
+ 108 infrequent	0.0024%
  108 indicated	0.0024%
  108 indicate	0.0024%
  108 improved	0.0024%
@@ -1613,6 +1795,7 @@
  108 hypothermic	0.0024%
  108 hypothermia	0.0024%
  108 house	0.0024%
+ 108 hospital	0.0024%
  108 hookup	0.0024%
  108 highlight	0.0024%
  108 goes	0.0024%
@@ -1621,6 +1804,7 @@
  108 forms	0.0024%
  108 fewer	0.0024%
  108 failure	0.0024%
+ 108 extremely	0.0024%
  108 exquisitely	0.0024%
  108 experiencing	0.0024%
  108 evolves	0.0024%
@@ -1629,10 +1813,12 @@
  108 dyshormia	0.0024%
  108 dropping	0.0024%
  108 device	0.0024%
+ 108 description	0.0024%
  108 deformities	0.0024%
  108 damage	0.0024%
  108 course	0.0024%
  108 cooperates	0.0024%
+ 108 continue	0.0024%
  108 concludes	0.0024%
  108 command	0.0024%
  108 come	0.0024%
@@ -1657,24 +1843,42 @@
  108 apnea	0.0024%
  108 anoxia	0.0024%
  108 admission	0.0024%
- 108 Technically	0.0024%
- 108 Severely	0.0024%
+ 108 acid	0.0024%
+ 108 WAs	0.0024%
+ 108 Temple	0.0024%
+ 108 TO	0.0024%
+ 108 TIME	0.0024%
+ 108 Spindle	0.0024%
  108 Rasmussen	0.0024%
  108 Random	0.0024%
+ 108 Polyspikes	0.0024%
  108 Pantoprazole	0.0024%
+ 108 Over	0.0024%
+ 108 Not	0.0024%
+ 108 N	0.0024%
+ 108 Myoclonic	0.0024%
+ 108 Mild	0.0024%
+ 108 Lisinopril	0.0024%
  108 Lipitor	0.0024%
+ 108 Later	0.0024%
  108 Lacosamide	0.0024%
  108 LTM	0.0024%
+ 108 Follow	0.0024%
  108 Focused	0.0024%
  108 ER	0.0024%
+ 108 Doxycycline	0.0024%
+ 108 Dopamine	0.0024%
+ 108 Discharges	0.0024%
  108 Continuos	0.0024%
- 108 Circulation	0.0024%
- 108 CONDITIONS	0.0024%
- 108 Abundant	0.0024%
+ 108 Comparison	0.0024%
+ 108 BASELINE	0.0024%
+ 108 Aspirin	0.0024%
+ 108 Alternatively	0.0024%
  108 ASA	0.0024%
  107 subtlely	0.0023%
  107 resulted	0.0023%
  107 laboratory	0.0023%
+ 107 k	0.0023%
  107 forebodes	0.0023%
  107 foci	0.0023%
  107 foaming	0.0023%
@@ -1687,15 +1891,20 @@
  107 anteromaximal	0.0023%
  107 administered	0.0023%
  107 VFib	0.0023%
+ 107 Post	0.0023%
+ 107 Excessive	0.0023%
  107 AV	0.0023%
   81 wheelchair	0.0018%
   81 weakness	0.0018%
   81 walking	0.0018%
+  81 unusual	0.0018%
   81 unknown	0.0018%
   81 underneath	0.0018%
   81 turned	0.0018%
+  81 trazodone	0.0018%
   81 told	0.0018%
   81 tiny	0.0018%
+  81 technical	0.0018%
   81 tearful	0.0018%
   81 synchronous	0.0018%
   81 suctioning	0.0018%
@@ -1704,10 +1913,12 @@
   81 stenosis	0.0018%
   81 stating	0.0018%
   81 standing	0.0018%
+  81 spindle	0.0018%
   81 spinal	0.0018%
   81 soon	0.0018%
   81 sedation	0.0018%
   81 schizoaffective	0.0018%
+  81 rule	0.0018%
   81 rounds	0.0018%
   81 rhythmicity	0.0018%
   81 revision	0.0018%
@@ -1717,11 +1928,14 @@
   81 remained	0.0018%
   81 recurred	0.0018%
   81 pushes	0.0018%
+  81 propofol	0.0018%
   81 procedure	0.0018%
   81 position	0.0018%
   81 polys	0.0018%
+  81 phenytoin	0.0018%
   81 patch	0.0018%
   81 passing	0.0018%
+  81 outpatient	0.0018%
   81 oppression	0.0018%
   81 occurrence	0.0018%
   81 obscuring	0.0018%
@@ -1738,7 +1952,9 @@
   81 levels	0.0018%
   81 lethargic	0.0018%
   81 lesions	0.0018%
+  81 length	0.0018%
   81 larger	0.0018%
+  81 lamotrigine	0.0018%
   81 lacking	0.0018%
   81 ischemic	0.0018%
   81 involving	0.0018%
@@ -1773,9 +1989,11 @@
   81 diagnosed	0.0018%
   81 deviated	0.0018%
   81 definite	0.0018%
+  81 date	0.0018%
   81 craniotomy	0.0018%
   81 conveyed	0.0018%
   81 contralateral	0.0018%
+  81 conditions	0.0018%
   81 closure	0.0018%
   81 cell	0.0018%
   81 cases	0.0018%
@@ -1802,21 +2020,37 @@
   81 Zosyn	0.0018%
   81 Wellbutrin	0.0018%
   81 Vancomycin	0.0018%
+  81 Using	0.0018%
+  81 Total	0.0018%
+  81 Time	0.0018%
+  81 Throughout	0.0018%
+  81 That	0.0018%
   81 Synthroid	0.0018%
+  81 Study	0.0018%
+  81 Similar	0.0018%
   81 Replacement	0.0018%
-  81 Practice	0.0018%
-  81 Omeprazole	0.0018%
+  81 Prior	0.0018%
+  81 Past	0.0018%
+  81 Paroxysmal	0.0018%
+  81 Mother	0.0018%
   81 Lovastatin	0.0018%
-  81 Losartan	0.0018%
   81 Intrusions	0.0018%
-  81 ILLNESS	0.0018%
+  81 Hospital	0.0018%
+  81 History	0.0018%
+  81 Her	0.0018%
   81 Glucophage	0.0018%
   81 GPED	0.0018%
   81 GERD	0.0018%
-  81 Clindamycin	0.0018%
+  81 Fragments	0.0018%
+  81 Eye	0.0018%
+  81 Events	0.0018%
+  81 Dates	0.0018%
+  81 DURATION	0.0018%
+  81 Clonazepam	0.0018%
+  81 Change	0.0018%
   81 Benadryl	0.0018%
-  81 Afterward	0.0018%
-  81 Activation	0.0018%
+  81 Another	0.0018%
+  81 Abundant	0.0018%
   54 youthful	0.0012%
   54 yesterday	0.0012%
   54 working	0.0012%
@@ -1854,6 +2088,7 @@
   54 termination	0.0012%
   54 temporally	0.0012%
   54 tell	0.0012%
+  54 technically	0.0012%
   54 tapping	0.0012%
   54 talked	0.0012%
   54 taking	0.0012%
@@ -1886,6 +2121,7 @@
   54 sheets	0.0012%
   54 shaped	0.0012%
   54 severity	0.0012%
+  54 severely	0.0012%
   54 sedated	0.0012%
   54 scheduled	0.0012%
   54 sarcoidosis	0.0012%
@@ -1925,7 +2161,9 @@
   54 precipitate	0.0012%
   54 precedent	0.0012%
   54 preceded	0.0012%
+  54 practice	0.0012%
   54 pong	0.0012%
+  54 please	0.0012%
   54 pleasant	0.0012%
   54 plan	0.0012%
   54 place	0.0012%
@@ -1979,6 +2217,8 @@
   54 incomplete	0.0012%
   54 impossible	0.0012%
   54 imply	0.0012%
+  54 immediately	0.0012%
+  54 illness	0.0012%
   54 hypnagogic	0.0012%
   54 hyperthyroid	0.0012%
   54 hyperthermia	0.0012%
@@ -2047,6 +2287,7 @@
   54 definitely	0.0012%
   54 decreases	0.0012%
   54 cut	0.0012%
+  54 current	0.0012%
   54 cough	0.0012%
   54 correlates	0.0012%
   54 cooperating	0.0012%
@@ -2060,6 +2301,7 @@
   54 consider	0.0012%
   54 congenital	0.0012%
   54 conduction	0.0012%
+  54 condition	0.0012%
   54 concussion	0.0012%
   54 concern	0.0012%
   54 concentration	0.0012%
@@ -2069,6 +2311,7 @@
   54 cocaine	0.0012%
   54 clusters	0.0012%
   54 clarify	0.0012%
+  54 circulation	0.0012%
   54 chemo	0.0012%
   54 chaotic	0.0012%
   54 cervical	0.0012%
@@ -2102,11 +2345,13 @@
   54 alerts	0.0012%
   54 alcoholic	0.0012%
   54 agitating	0.0012%
+  54 afterward	0.0012%
   54 adjustments	0.0012%
   54 adequately	0.0012%
   54 addiction	0.0012%
   54 active	0.0012%
   54 activator	0.0012%
+  54 activation	0.0012%
   54 achieve	0.0012%
   54 accompanied	0.0012%
   54 abnormality	0.0012%
@@ -2114,77 +2359,133 @@
   54 Zithromax	0.0012%
   54 Zestoretic	0.0012%
   54 Zarontin	0.0012%
+  54 Within	0.0012%
+  54 Wicket	0.0012%
+  54 Wakefulness	0.0012%
   54 Vyvanse	0.0012%
   54 Vit	0.0012%
   54 VP	0.0012%
+  54 Unit	0.0012%
+  54 Underlying	0.0012%
+  54 Twitching	0.0012%
   54 Trilipix	0.0012%
+  54 Trazodone	0.0012%
+  54 Towards	0.0012%
   54 Toprol	0.0012%
   54 Thirty	0.0012%
+  54 Then	0.0012%
+  54 Technically	0.0012%
   54 Tamsulosin	0.0012%
   54 TPA	0.0012%
   54 TIRDA	0.0012%
+  54 Suppressed	0.0012%
+  54 Subtle	0.0012%
   54 Stimulus	0.0012%
   54 Stepped	0.0012%
   54 Solifenacin	0.0012%
+  54 Slightly	0.0012%
+  54 Severely	0.0012%
+  54 Severe	0.0012%
+  54 Several	0.0012%
+  54 Scant	0.0012%
+  54 Scalp	0.0012%
+  54 Rule	0.0012%
   54 Ritalin	0.0012%
   54 Risperdal	0.0012%
+  54 Review	0.0012%
   54 Rescue	0.0012%
-  54 Qualification	0.0012%
+  54 Repeat	0.0012%
+  54 Recently	0.0012%
+  54 Propofol	0.0012%
+  54 Primary	0.0012%
+  54 Presence	0.0012%
   54 Pre	0.0012%
   54 Pradaxa	0.0012%
   54 Poukas	0.0012%
   54 Postanoxic	0.0012%
   54 Pneumonia	0.0012%
   54 Plavix	0.0012%
+  54 Pattern	0.0012%
   54 PVCs	0.0012%
   54 PCA	0.0012%
-  54 ORDERING	0.0012%
+  54 Outpatient	0.0012%
+  54 Only	0.0012%
+  54 Omeprazole	0.0012%
+  54 Note	0.0012%
   54 Norepinephrine	0.0012%
   54 Nitrostat	0.0012%
   54 Neurology	0.0012%
   54 Natal	0.0012%
+  54 NOTE	0.0012%
+  54 Mv	0.0012%
   54 Morphine	0.0012%
-  54 Minimal	0.0012%
   54 Milrinone	0.0012%
+  54 Mildly	0.0012%
+  54 Migraine	0.0012%
   54 Midazolam	0.0012%
+  54 Mid	0.0012%
+  54 Maximum	0.0012%
   54 Magnesium	0.0012%
+  54 Losartan	0.0012%
+  54 Limited	0.0012%
   54 Lexapro	0.0012%
   54 Levothyroxine	0.0012%
-  54 Levetiracetam	0.0012%
   54 Latuda	0.0012%
+  54 Large	0.0012%
+  54 Lack	0.0012%
   54 June	0.0012%
   54 Iron	0.0012%
+  54 Intermixed	0.0012%
+  54 Intermittently	0.0012%
   54 Intensive	0.0012%
+  54 Insulin	0.0012%
+  54 Initially	0.0012%
+  54 Increased	0.0012%
+  54 Ictal	0.0012%
   54 INTERIM	0.0012%
-  54 Grimacing	0.0012%
+  54 INTERICTAL	0.0012%
+  54 ICTAL	0.0012%
+  54 Hydrochlorothiazide	0.0012%
+  54 General	0.0012%
   54 Gabitril	0.0012%
   54 GI	0.0012%
   54 Flomax	0.0012%
   54 Fire	0.0012%
   54 Facility	0.0012%
   54 FZ	0.0012%
+  54 Even	0.0012%
+  54 Evaluate	0.0012%
   54 Esomeprazole	0.0012%
   54 Episcopal	0.0012%
   54 EPOCs	0.0012%
   54 EMU	0.0012%
+  54 Due	0.0012%
   54 Ditropan	0.0012%
+  54 Disorganization	0.0012%
+  54 Discrete	0.0012%
   54 Demerol	0.0012%
   54 Cymbalta	0.0012%
   54 Critically	0.0012%
   54 Coumadin	0.0012%
+  54 Compared	0.0012%
   54 Clonidine	0.0012%
   54 Clobazam	0.0012%
   54 Clinic	0.0012%
+  54 Clindamycin	0.0012%
   54 Citalopram	0.0012%
+  54 Circulation	0.0012%
+  54 Care	0.0012%
   54 Carbitrol	0.0012%
   54 CZC	0.0012%
   54 CRD	0.0012%
   54 CP	0.0012%
   54 CHF	0.0012%
+  54 CAPTURED	0.0012%
   54 CAD	0.0012%
   54 Benztropine	0.0012%
+  54 Because	0.0012%
   54 Automatic	0.0012%
-  54 Automated	0.0012%
+  54 Approximately	0.0012%
   54 Amiodarone	0.0012%
   54 Advair	0.0012%
   54 AVM	0.0012%
@@ -2224,6 +2525,7 @@
   27 thus	0.0006%
   27 tend	0.0006%
   27 temperature	0.0006%
+  27 tegretol	0.0006%
   27 techniques	0.0006%
   27 tachycardiac	0.0006%
   27 syndromes	0.0006%
@@ -2257,6 +2559,7 @@
   27 slept	0.0006%
   27 site	0.0006%
   27 singleton	0.0006%
+  27 simvastatin	0.0006%
   27 showing	0.0006%
   27 show	0.0006%
   27 septic	0.0006%
@@ -2292,6 +2595,7 @@
   27 rd	0.0006%
   27 raised	0.0006%
   27 quantity	0.0006%
+  27 qualification	0.0006%
   27 putting	0.0006%
   27 pushbuttons	0.0006%
   27 purpose	0.0006%
@@ -2317,6 +2621,7 @@
   27 peripheral	0.0006%
   27 periodically	0.0006%
   27 percutaneous	0.0006%
+  27 paucity	0.0006%
   27 pats	0.0006%
   27 particular	0.0006%
   27 partialis	0.0006%
@@ -2327,6 +2632,7 @@
   27 overriding	0.0006%
   27 optimal	0.0006%
   27 opened	0.0006%
+  27 omeprazole	0.0006%
   27 offset	0.0006%
   27 officer	0.0006%
   27 occurrent	0.0006%
@@ -2344,6 +2650,7 @@
   27 monitored	0.0006%
   27 mix	0.0006%
   27 missing	0.0006%
+  27 minimal	0.0006%
   27 milliseconds	0.0006%
   27 milder	0.0006%
   27 middle	0.0006%
@@ -2356,6 +2663,7 @@
   27 mania	0.0006%
   27 management	0.0006%
   27 lunch	0.0006%
+  27 losartan	0.0006%
   27 log	0.0006%
   27 load	0.0006%
   27 liver	0.0006%
@@ -2365,6 +2673,7 @@
   27 light	0.0006%
   27 lift	0.0006%
   27 license	0.0006%
+  27 levetiracetam	0.0006%
   27 leave	0.0006%
   27 laughing	0.0006%
   27 lately	0.0006%
@@ -2396,11 +2705,15 @@
   27 holes	0.0006%
   27 hold	0.0006%
   27 highest	0.0006%
+  27 hertz	0.0006%
+  27 heparin	0.0006%
   27 hematomas	0.0006%
+  27 hearing	0.0006%
   27 heard	0.0006%
   27 halfway	0.0006%
   27 half	0.0006%
   27 group	0.0006%
+  27 grimacing	0.0006%
   27 glioblastoma	0.0006%
   27 get	0.0006%
   27 generates	0.0006%
@@ -2410,18 +2723,21 @@
   27 fugue	0.0006%
   27 fragmentary	0.0006%
   27 forgot	0.0006%
+  27 folic	0.0006%
   27 focuses	0.0006%
   27 fluttering	0.0006%
   27 flattening	0.0006%
   27 flashing	0.0006%
   27 fit	0.0006%
   27 finds	0.0006%
+  27 fentanyl	0.0006%
   27 featureless	0.0006%
   27 fatigued	0.0006%
   27 factor	0.0006%
   27 experiences	0.0006%
   27 exists	0.0006%
   27 existing	0.0006%
+  27 exhaustive	0.0006%
   27 excluded	0.0006%
   27 examined	0.0006%
   27 exacerbation	0.0006%
@@ -2443,6 +2759,7 @@
   27 drawn	0.0006%
   27 dozing	0.0006%
   27 doses	0.0006%
+  27 dopamine	0.0006%
   27 done	0.0006%
   27 dominance	0.0006%
   27 documentation	0.0006%
@@ -2496,7 +2813,9 @@
   27 cloudy	0.0006%
   27 closely	0.0006%
   27 clonus	0.0006%
+  27 clindamycin	0.0006%
   27 cholesterol	0.0006%
+  27 chlorazepate	0.0006%
   27 checked	0.0006%
   27 chatting	0.0006%
   27 changed	0.0006%
@@ -2504,6 +2823,7 @@
   27 cesarean	0.0006%
   27 carnitine	0.0006%
   27 caregiver	0.0006%
+  27 carbamazepine	0.0006%
   27 calmly	0.0006%
   27 calling	0.0006%
   27 call	0.0006%
@@ -2525,6 +2845,7 @@
   27 bifid	0.0006%
   27 beat	0.0006%
   27 bag	0.0006%
+  27 automated	0.0006%
   27 attenuate	0.0006%
   27 attentive	0.0006%
   27 attending	0.0006%
@@ -2545,6 +2866,8 @@
   27 amounts	0.0006%
   27 ambulatory	0.0006%
   27 ambulance	0.0006%
+  27 alternatively	0.0006%
+  27 albuterol	0.0006%
   27 aid	0.0006%
   27 afternoon	0.0006%
   27 activates	0.0006%
@@ -2553,6 +2876,7 @@
   27 ache	0.0006%
   27 accompanies	0.0006%
   27 accidental	0.0006%
+  27 abundant	0.0006%
   27 absent	0.0006%
   27 abruptly	0.0006%
   27 abdominal	0.0006%
@@ -2563,38 +2887,94 @@
   27 VapoRub	0.0006%
   27 Valeriya	0.0006%
   27 V	0.0006%
+  27 Upon	0.0006%
+  27 Transitions	0.0006%
   27 Topiramete	0.0006%
+  27 Three	0.0006%
+  27 Temporal	0.0006%
+  27 TOTAL	0.0006%
+  27 Symmetric	0.0006%
+  27 Superimposed	0.0006%
+  27 St	0.0006%
+  27 Spontaneous	0.0006%
+  27 Spikes	0.0006%
+  27 Spells	0.0006%
   27 Singulair	0.0006%
+  27 Simple	0.0006%
+  27 Significant	0.0006%
+  27 Short	0.0006%
+  27 Screaming	0.0006%
+  27 START	0.0006%
   27 Rico	0.0006%
+  27 Records	0.0006%
+  27 Recent	0.0006%
+  27 Rate	0.0006%
   27 Ranitidne	0.0006%
+  27 Qualification	0.0006%
   27 Puerto	0.0006%
+  27 Profound	0.0006%
+  27 Previously	0.0006%
+  27 Practice	0.0006%
+  27 Positive	0.0006%
+  27 Poly	0.0006%
   27 Phenobarbotal	0.0006%
+  27 Periods	0.0006%
+  27 Per	0.0006%
   27 Paxil	0.0006%
+  27 PROBLEMS	0.0006%
+  27 PRESENT	0.0006%
+  27 Ordering	0.0006%
   27 Olanzapine	0.0006%
+  27 Occipitally	0.0006%
+  27 ORDERING	0.0006%
   27 Norvasc	0.0006%
+  27 Nearly	0.0006%
+  27 Muscle	0.0006%
+  27 Moves	0.0006%
   27 Motrin	0.0006%
+  27 Minutes	0.0006%
+  27 Minimal	0.0006%
   27 MRSA	0.0006%
   27 MD	0.0006%
   27 Lyrica	0.0006%
   27 Lorazepam	0.0006%
+  27 Levetiracetam	0.0006%
   27 Lennos	0.0006%
+  27 Lambda	0.0006%
   27 Kapseal	0.0006%
+  27 Just	0.0006%
+  27 Introduction	0.0006%
+  27 Infrequent	0.0006%
+  27 Impulse	0.0006%
   27 IMPRESSIONS	0.0006%
+  27 ILLNESS	0.0006%
   27 Hypoventilation	0.0006%
+  27 Grimacing	0.0006%
+  27 Given	0.0006%
   27 GPFA	0.0006%
   27 GEFS	0.0006%
+  27 Found	0.0006%
   27 Flovent	0.0006%
   27 Five	0.0006%
   27 Firda	0.0006%
+  27 Fast	0.0006%
+  27 Famotidine	0.0006%
   27 FT	0.0006%
+  27 FINISH	0.0006%
+  27 Extremely	0.0006%
+  27 Electroencephalogram	0.0006%
   27 Eight	0.0006%
   27 Dr	0.0006%
   27 Documented	0.0006%
   27 Diovan	0.0006%
   27 Diazepam	0.0006%
+  27 Description	0.0006%
   27 Depakene	0.0006%
   27 December	0.0006%
+  27 Day	0.0006%
   27 DVT	0.0006%
+  27 Continue	0.0006%
+  27 Confusional	0.0006%
   27 Concerns	0.0006%
   27 Claritin	0.0006%
   27 Christopher	0.0006%
@@ -2604,8 +2984,15 @@
   27 CV	0.0006%
   27 CORRELATIONS	0.0006%
   27 COPD	0.0006%
+  27 CONDITIONS	0.0006%
   27 Bactrim	0.0006%
   27 BMP	0.0006%
+  27 Automated	0.0006%
+  27 Attempts	0.0006%
+  27 Asymmetry	0.0006%
   27 Ambu	0.0006%
   27 Alendronate	0.0006%
+  27 Afterward	0.0006%
   27 Additionally	0.0006%
+  27 Activation	0.0006%
+  27 About	0.0006%

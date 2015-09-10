@@ -1,0 +1,11 @@
+C-x C-k C-f %07d //format counter
+C-x ( 	    	 //begin defining macro
+C-e 
+C-b C-b C-b C-b  //move cursor on top of '.' in .txt
+M-0 C-k	    	 //kill from beginning of line up to cursor
+/usr/tmp/bob_	 //mace appropriate edts
+C-x C-k C-i	 //insert formatted counter
+C-a 		 //move to beginning of line
+C-n		 //move to next line
+C-x )		 //stop defining macro
+M-199999 C-x e   //Execute the macro 199,999 more times (we know there are 200,000 files)

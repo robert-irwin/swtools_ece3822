@@ -1,0 +1,23 @@
+# Heres the list of commands used to compile the code.
+
+# Once the code was written, we compiled and linked the files into an executable
+# called hw_04.exe.  This was done using the following commands.
+
+gcc -c f_01.cc
+gcc -c f_00.cc
+
+# These commands create the object files f_01.o and f_00.o.  Then we link these
+# files and create the executable using O2 optimaztion as shown below.
+
+gcc -O2 f_00.o f_01.o -o hw_04.exe
+
+# Creating the library that contains the function ece_3822_add_sin is done by:
+
+ar rvs libsinece3822.a f_01.o ar rvs libsinece3822.a f_01.o
+ranlib libsinece3822.a
+
+# To compile and link the program using this library we do:
+gcc f_00.o -L. -lsinece3822 -o f_00.exe
+
+# To generate a file that contains the assembly code...
+gcc -S f_00.cc

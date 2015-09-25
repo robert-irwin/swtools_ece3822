@@ -1,0 +1,6 @@
+/Users/robertirwin/software_tools/test1/testprob1/dir1/bad.txt
+/Users/robertirwin/software_tools/test1/testprob1/dir1/good.txt
+/Users/robertirwin/software_tools/test1/testprob1/dir2/bad1.txt
+/Users/robertirwin/software_tools/test1/testprob1/dir2/bad1.txt~
+/Users/robertirwin/software_tools/test1/testprob1/dir2/good1.txt
+/Users/robertirwin/software_tools/test1/testprob1/dir2/good1.txt~

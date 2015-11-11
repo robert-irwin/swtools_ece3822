@@ -33,27 +33,27 @@ DIRCOUNT=0;
 
 # Beginning searching and counting for
 # all files and directories
-find "../data" -type f > files.txt
-FILECOUNT="$(wc -l < files.txt)"    
-find "../data" -type d > output.txt
-DIRCOUNT="$(wc -l < output.txt)"
+#find "../data" -type f > files.txt
+#FILECOUNT="$(wc -l < files.txt)"    
+#find "../data" -type d > output.txt
+#DIRCOUNT="$(wc -l < output.txt)"
 
 
-echo "File count: " $FILECOUNT
-echo "Directory count: " $DIRCOUNT
+#echo "File count: " $FILECOUNT
+#echo "Directory count: " $DIRCOUNT
 
 # Search for dates and first/last/ names
 # This is done in steps and each of the search results
 # of each search are written to a txt file to
 # verify the output
 
-grep "/R" output.txt > out1.txt
-grep "_S" out1.txt > out2.txt
-grep "2010\|2011\|2012\|2013" out2.txt > final.txt
+#grep "/R" output.txt > out1.txt
+#grep "_S" out1.txt > out2.txt
+#grep "2010\|2011\|2012\|2013" out2.txt > final.txt
 
-FILECOUNT="$(wc -l < final.txt)"
+#FILECOUNT="$(wc -l < final.txt)"
 
-echo "Files that match search criteria: " $FILECOUNT
+#echo "Files that match search criteria: " $FILECOUNT
 
 
 #now we are concerned with the files
@@ -75,12 +75,14 @@ echo "Files that match search criteria: " $FILECOUNT
 grep -iRlw "spike" /Users/robertirwin/software_tools/data/* > suba.txt
 SPIKE="$(wc -l < suba.txt)" # #of files corresponds to number of lines
 echo "Files with <spike>: " $SPIKE
-grep -iRlw "seizure" /Users/robertirwin/software_tools/data/* > subb.txt
+grep -iRlw "seizure" /Users/robertirwin/software_tools/hw8/path1/ > subb.txt
 SEIZURE="$(wc -l < subb.txt)"
 echo "Files with <seizure>: " $SEIZURE
 
 echo "Creating Histogram of subset A..."
-xargs cat < suba.txt | tr -sc '[A-Z][a-z]' '[\012*]' > suba.words #files too big for cat.  Chunk it up
+xargs cat < suba.txt | tr -sc '[A-Z][a-z]' '[\012*]' | tr '[:upper:]' '[:lower:]' > suba.words #files too big for cat.  Chunk it up
+
+
 sort -f suba.words | uniq -ci | sort -nr > suba.hist #count each unique word, ignore case
 
 #pdf                                                                        
@@ -133,11 +135,35 @@ echo "Done... saved in histb.hist"
 #      occur in this subset of the database
 
 echo "Creating Histogram of all two word sequences in subset A..."
-tail -n +2 suba.words > suba.next
+
+#all new stuff
+
+filename='suba.txt'
+filenames=`cat $filename`
+echo $filenames
+for file in $filenames ; do
+    
+    #print each word on its own line, and get ride of all punctuation
+    cat $file | tr '[:punct:]' ' ' | tr -sc '[A-Z][a-z]' '[\012*]' | tr '[:upper:]' '[:lower:]' | tr ' ' '\n' > two_word.words
+    tail -n +2 two_word.words > two_word.next
+    paste two_word.words two_word.next >> word_seq.txt
+done
+echo "Done For Loop"
+#only print lines with more than 1 word
+awk 'NF>1 || /(^| )\[/' word_seq.txt  > word_seq1.txt
+cat word_seq1.txt | sort -f | uniq -ci | sort -nr > bi.hist
+echo "Done xargs"	
+
+#end new stuff
+
+#tail -n +2 suba.words > suba.next
 
 #Merge the two lists with a shingled effect
-paste suba.words suba.next | sort -f | uniq -ci | sort -nr > bi.hist
+#paste suba.words suba.next | sort -f | uniq -ci | sort -nr > bi.hist
+
+#sed gets rid of leading whitespace
 sed 's/^ *//g' < bi.hist > bi1.hist
+echo "Done sed"
 cut -f 1 -d ' ' bi1.hist > num.list
 #sum up all histogram entries                                               
 sum=$(awk '{SUM += $1} END { print SUM}' num.list)
@@ -152,10 +178,10 @@ do
    echo "$percent%" >> per.list
 done
 #now we simply paste the lists                            
-paste bi.hist per.list > histbi.hist
+paste bi1.hist per.list > histbi.hist
 
 
 echo "Done... saved in histbi.hist"
 
 #Clean up files                                                              
-rm output.txt out1.txt out2.txt final.txt files.txt suba.txt subb.txt suba.words suba.next per.list bi.hist num.list suba1.hist subb1.hist suba.hist subb.hist bi1.hist
+rm -f output.txt out1.txt out2.txt final.txt files.txt suba.txt subb.txt suba.words suba.next per.list  num.list suba1.hist subb1.hist suba.hist subb.hist word_seq* bi1.hist bi.hist two_word*

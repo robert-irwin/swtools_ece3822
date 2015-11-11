@@ -1,0 +1,10 @@
+/Users/robertirwin/software_tools/data//book_19/00009992_20040207/Letitia_Dornak/eg_00.txt
+/Users/robertirwin/software_tools/data//book_19/00009992_20040207/Letitia_Dornak/eg_01.txt
+/Users/robertirwin/software_tools/data//book_19/00009992_20040207/Margolis_Bettie/eg_00.txt
+/Users/robertirwin/software_tools/data//book_19/00009992_20040207/Margolis_Bettie/eg_01.txt
+/Users/robertirwin/software_tools/data//book_19/00009992_20040207/Parke_Terrell/eg_00.txt
+/Users/robertirwin/software_tools/data//book_19/00009992_20040207/Parke_Terrell/eg_01.txt
+/Users/robertirwin/software_tools/data//book_19/00009992_20040207/Schappach_Ok/eg_00.txt
+/Users/robertirwin/software_tools/data//book_19/00009992_20040207/Schappach_Ok/eg_01.txt
+/Users/robertirwin/software_tools/data//book_19/00009992_20040207/Todora_Layla/eg_00.txt
+/Users/robertirwin/software_tools/data//book_19/00009992_20040207/Todora_Layla/eg_01.txt

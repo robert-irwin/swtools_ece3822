@@ -25,6 +25,9 @@
 #       “R” and a last name that begins with “S” and 
 #       occurred between 2010 and 2013.
 
+#start timer
+start=`date +%s`
+
 #clean up .hist files if this was ran before
 rm -f suba.hist subb.hist bi.hist  
 
@@ -75,9 +78,12 @@ DIRCOUNT=0;
 grep -iRlw "spike" /Users/robertirwin/software_tools/data/* > suba.txt
 SPIKE="$(wc -l < suba.txt)" # #of files corresponds to number of lines
 echo "Files with <spike>: " $SPIKE
-grep -iRlw "seizure" /Users/robertirwin/software_tools/hw8/path1/ > subb.txt
-SEIZURE="$(wc -l < subb.txt)"
-echo "Files with <seizure>: " $SEIZURE
+
+#uncomment
+
+#grep -iRlw "seizure" /Users/robertirwin/software_tools/hw8/path1/ > subb.txt
+#SEIZURE="$(wc -l < subb.txt)"
+#echo "Files with <seizure>: " $SEIZURE
 
 echo "Creating Histogram of subset A..."
 xargs cat < suba.txt | tr -sc '[A-Z][a-z]' '[\012*]' | tr '[:upper:]' '[:lower:]' > suba.words #files too big for cat.  Chunk it up
@@ -107,28 +113,28 @@ rm per.list num.list
 echo "Done... saved in hista.hist"
 
 #On to subset B
-echo "Creating Histogram of subset B..."
-xargs cat < subb.txt | tr -sc '[A-Z][a-z]' '[\012*]' | sort -f | uniq -ci | sort -nr > subb.hist
+#echo "Creating Histogram of subset B..."
+#xargs cat < subb.txt | tr -sc '[A-Z][a-z]' '[\012*]' | sort -f | uniq -ci | sort -nr > subb.hist
 
 #pdf                                                                        
-sed 's/^ *//g' < subb.hist > subb1.hist
-cut -f 1 -d ' ' subb1.hist > num.list
+#sed 's/^ *//g' < subb.hist > subb1.hist
+#cut -f 1 -d ' ' subb1.hist > num.list
 #sum up all histogram entries             
-sum=$(awk '{SUM += $1} END { print SUM}' num.list)
+#sum=$(awk '{SUM += $1} END { print SUM}' num.list)
 
-file='num.list'
-lines=`cat $file`
+#file='num.list'
+#lines=`cat $file`
 #calculate perentages                                                   
-for num in $lines;
-do
-   percent=`awk  'BEGIN{printf("%0.4f", '$num' / '$sum' *100)}'`
-   echo "$percent%" >> per.list
-done
+#for num in $lines;
+#do
+#   percent=`awk  'BEGIN{printf("%0.4f", '$num' / '$sum' *100)}'`
+#   echo "$percent%" >> per.list
+#done
 #now we simply paste the lists                    
-paste subb.hist per.list > histb.hist
+#paste subb.hist per.list > histb.hist
 
-rm per.list num.list
-echo "Done... saved in histb.hist"
+#rm per.list num.list
+#echo "Done... saved in histb.hist"
 
 
 #  4)  For Subset A, produce a histogram of all two-word sequences that 
@@ -182,6 +188,11 @@ paste bi1.hist per.list > histbi.hist
 
 
 echo "Done... saved in histbi.hist"
+
+end=`date +%s`
+runtime=`awk  'BEGIN{printf("%0.4f", '$end' - '$start')}'`
+
+echo "Runtime: " $runtime
 
 #Clean up files                                                              
 rm -f output.txt out1.txt out2.txt final.txt files.txt suba.txt subb.txt suba.words suba.next per.list  num.list suba1.hist subb1.hist suba.hist subb.hist word_seq* bi1.hist bi.hist two_word*

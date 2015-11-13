@@ -75,6 +75,7 @@ def onewrd_hist(file_list):
     hist_list = hist.values()
     total = float(sum(hist_list))
 
+    # redirect stdout
     sys.stdout = open('hista.hist', 'a')
 
     for i in sorted(hist, key=hist.get, reverse=True):
@@ -89,17 +90,16 @@ def onewrd_hist(file_list):
 
 # two word histogrm function
 def twoword_hist(file_list):
-    #initialize a dictionary                                                                                                                                                  
+    #initialize a dictionary                                                   
     hist = {}
-    #loop over every file in the list of files                                                                                                                                  
+    #loop over every file in the list of files                                
     for i in range(0,len(file_list)):
-        #open the ith file in the list                                                                                                                                          
+        #open the ith file in the list                                           
         with open(file_list[i], 'r') as fp:
-
             #read the entire file and make it lowercase
             text = fp.read().lower()
             
-            #get rid of all punctuation                                                                                                                                        
+            #get rid of all punctuation                                 
             text = re.sub('[^a-z]+', " ", text)
             #convert the words into a list where each entry corresponds
             #to a seperate word
@@ -177,7 +177,7 @@ def main(argv):
     print "\n\n"
 
     #now we build the histogram out of all words in the files containing spike
-    #onewrd_hist(spike_files)
+    onewrd_hist(spike_files)
 
     #now we build the two word histogram
     twoword_hist(spike_files)

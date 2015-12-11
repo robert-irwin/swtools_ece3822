@@ -36,27 +36,27 @@ DIRCOUNT=0;
 
 # Beginning searching and counting for
 # all files and directories
-#find "../data" -type f > files.txt
-#FILECOUNT="$(wc -l < files.txt)"    
-#find "../data" -type d > output.txt
-#DIRCOUNT="$(wc -l < output.txt)"
+find "../data" -type f > files.txt
+FILECOUNT="$(wc -l < files.txt)"    
+find "../data" -type d > output.txt
+DIRCOUNT="$(wc -l < output.txt)"
 
 
-#echo "File count: " $FILECOUNT
-#echo "Directory count: " $DIRCOUNT
+echo "File count: " $FILECOUNT
+echo "Directory count: " $DIRCOUNT
 
 # Search for dates and first/last/ names
 # This is done in steps and each of the search results
 # of each search are written to a txt file to
 # verify the output
 
-#grep "/R" output.txt > out1.txt
-#grep "_S" out1.txt > out2.txt
-#grep "2010\|2011\|2012\|2013" out2.txt > final.txt
+grep "/R" output.txt > out1.txt
+grep "_S" out1.txt > out2.txt
+grep "2010\|2011\|2012\|2013" out2.txt > final.txt
 
-#FILECOUNT="$(wc -l < final.txt)"
+FILECOUNT="$(wc -l < final.txt)"
 
-#echo "Files that match search criteria: " $FILECOUNT
+echo "Files that match search criteria: " $FILECOUNT
 
 
 #now we are concerned with the files
@@ -81,9 +81,9 @@ echo "Files with <spike>: " $SPIKE
 
 #uncomment
 
-#grep -iRlw "seizure" /Users/robertirwin/software_tools/hw8/path1/ > subb.txt
-#SEIZURE="$(wc -l < subb.txt)"
-#echo "Files with <seizure>: " $SEIZURE
+grep -iRlw "seizure" /Users/robertirwin/software_tools/hw8/path1/ > subb.txt
+SEIZURE="$(wc -l < subb.txt)"
+echo "Files with <seizure>: " $SEIZURE
 
 echo "Creating Histogram of subset A..."
 xargs cat < suba.txt | tr -sc '[A-Z][a-z]' '[\012*]' | tr '[:upper:]' '[:lower:]' > suba.words #files too big for cat.  Chunk it up
@@ -113,28 +113,28 @@ rm per.list num.list
 echo "Done... saved in hista.hist"
 
 #On to subset B
-#echo "Creating Histogram of subset B..."
-#xargs cat < subb.txt | tr -sc '[A-Z][a-z]' '[\012*]' | sort -f | uniq -ci | sort -nr > subb.hist
+echo "Creating Histogram of subset B..."
+xargs cat < subb.txt | tr -sc '[A-Z][a-z]' '[\012*]' | sort -f | uniq -ci | sort -nr > subb.hist
 
 #pdf                                                                        
-#sed 's/^ *//g' < subb.hist > subb1.hist
-#cut -f 1 -d ' ' subb1.hist > num.list
+sed 's/^ *//g' < subb.hist > subb1.hist
+cut -f 1 -d ' ' subb1.hist > num.list
 #sum up all histogram entries             
-#sum=$(awk '{SUM += $1} END { print SUM}' num.list)
+sum=$(awk '{SUM += $1} END { print SUM}' num.list)
 
-#file='num.list'
-#lines=`cat $file`
+file='num.list'
+lines=`cat $file`
 #calculate perentages                                                   
-#for num in $lines;
-#do
-#   percent=`awk  'BEGIN{printf("%0.4f", '$num' / '$sum' *100)}'`
-#   echo "$percent%" >> per.list
-#done
+for num in $lines;
+do
+   percent=`awk  'BEGIN{printf("%0.4f", '$num' / '$sum' *100)}'`
+   echo "$percent%" >> per.list
+done
 #now we simply paste the lists                    
-#paste subb.hist per.list > histb.hist
+paste subb.hist per.list > histb.hist
 
-#rm per.list num.list
-#echo "Done... saved in histb.hist"
+rm per.list num.list
+echo "Done... saved in histb.hist"
 
 
 #  4)  For Subset A, produce a histogram of all two-word sequences that 
